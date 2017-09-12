@@ -15,8 +15,8 @@
   <RemovePersonalInformation/>
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-  <WindowHeight>7170</WindowHeight>
-  <WindowWidth>20490</WindowWidth>
+  <WindowHeight>4455</WindowHeight>
+  <WindowWidth>15345</WindowWidth>
   <WindowTopX>0</WindowTopX>
   <WindowTopY>0</WindowTopY>
   <ProtectStructure>False</ProtectStructure>
@@ -31,41 +31,40 @@
    <NumberFormat/>
    <Protection/>
   </Style>
-  <Style ss:ID="s16">
+  <Style ss:ID="s70">
    <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
   </Style>
-  <Style ss:ID="s17">
+  <Style ss:ID="s71">
    <Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s18">
+  <Style ss:ID="s72">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s73">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
    <Interior ss:Color="#00B050" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s19">
+  <Style ss:ID="s74">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#FF0000"/>
    <Interior ss:Color="#00B050" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s20">
-   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
-   <Interior ss:Color="#00B050" ss:Pattern="Solid"/>
-  </Style>
-  <Style ss:ID="s21">
-   <Borders>
-    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
-    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
-    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
-    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
-   </Borders>
-  </Style>
-  <Style ss:ID="s22">
-   <Borders>
-    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
-    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
-    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
-    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
-   </Borders>
-   <Interior ss:Color="#00B050" ss:Pattern="Solid"/>
-  </Style>
-  <Style ss:ID="s23">
+  <Style ss:ID="s75">
    <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
@@ -75,7 +74,7 @@
    </Borders>
    <Interior ss:Color="#00B050" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s24">
+  <Style ss:ID="s76">
    <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
@@ -85,7 +84,7 @@
    </Borders>
    <Interior ss:Color="#640000" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s25">
+  <Style ss:ID="s77">
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
     <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
@@ -101,717 +100,713 @@
     ss:Hidden="1"/>
   </Names>
   <Table ss:ExpandedColumnCount="17" ss:ExpandedRowCount="39" x:FullColumns="1"
-   x:FullRows="1" ss:DefaultColumnWidth="903.75" ss:DefaultRowHeight="15">
-   <Column ss:Width="36.75"/>
-   <Column ss:Width="75.75"/>
-   <Column ss:Width="390"/>
-   <Column ss:AutoFitWidth="0" ss:Width="54"/>
-   <Column ss:Width="549"/>
-   <Column ss:AutoFitWidth="0" ss:Width="54.75"/>
-   <Column ss:Width="996.75"/>
-   <Column ss:Width="547.5"/>
-   <Column ss:Width="636.75"/>
-   <Column ss:Width="939.75"/>
-   <Column ss:Width="614.25"/>
-   <Column ss:Width="600.75"/>
-   <Column ss:Width="327"/>
-   <Column ss:Width="64.5"/>
-   <Column ss:Width="595.5"/>
-   <Column ss:AutoFitWidth="0" ss:Width="78.75"/>
-   <Column ss:Width="498.75"/>
-   <Row>
-    <Cell ss:StyleID="s21"><Data ss:Type="String">SR. NO</Data><NamedCell
+   x:FullRows="1" ss:StyleID="s72" ss:DefaultColumnWidth="903.75"
+   ss:DefaultRowHeight="15">
+   <Column ss:StyleID="s72" ss:Width="36.75"/>
+   <Column ss:StyleID="s72" ss:Width="75.75"/>
+   <Column ss:StyleID="s72" ss:Width="390"/>
+   <Column ss:StyleID="s72" ss:AutoFitWidth="0" ss:Width="54"/>
+   <Column ss:StyleID="s72" ss:Width="549"/>
+   <Column ss:StyleID="s72" ss:AutoFitWidth="0" ss:Width="54.75"/>
+   <Column ss:StyleID="s72" ss:Width="996.75"/>
+   <Column ss:StyleID="s72" ss:Width="547.5"/>
+   <Column ss:StyleID="s72" ss:Width="636.75"/>
+   <Column ss:StyleID="s72" ss:Width="939.75"/>
+   <Column ss:StyleID="s72" ss:Width="614.25"/>
+   <Column ss:StyleID="s72" ss:Width="600.75"/>
+   <Column ss:StyleID="s72" ss:Width="327"/>
+   <Column ss:StyleID="s72" ss:Width="64.5"/>
+   <Column ss:StyleID="s72" ss:Width="595.5"/>
+   <Column ss:StyleID="s72" ss:AutoFitWidth="0" ss:Width="78.75"/>
+   <Column ss:StyleID="s72" ss:Width="498.75"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SR. NO</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Folder</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">FileName</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s21"><Data ss:Type="String">Folder</Data><NamedCell
+    <Cell><Data ss:Type="String">ODBC</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">ODBC String</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s21"><Data ss:Type="String">FileName</Data><NamedCell
+    <Cell><Data ss:Type="String">OLEBD</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">OLEDB String</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s21"><Data ss:Type="String">ODBC</Data><NamedCell
+    <Cell><Data ss:Type="String">MS Access String</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s21"><Data ss:Type="String">ODBC String</Data><NamedCell
+    <Cell><Data ss:Type="String">OBJECT(TABLE/VIEW)</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s21"><Data ss:Type="String">OLEBD</Data><NamedCell
+    <Cell><Data ss:Type="String">SharePoint</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s21"><Data ss:Type="String">OLEDB String</Data><NamedCell
+    <Cell><Data ss:Type="String">Folder</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">QVD Output</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s21"><Data ss:Type="String">MS Access String</Data><NamedCell
+    <Cell><Data ss:Type="String">CSV Output</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s21"><Data ss:Type="String">OBJECT(TABLE/VIEW)</Data><NamedCell
+    <Cell><Data ss:Type="String">Excel Output</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s21"><Data ss:Type="String">SharePoint</Data><NamedCell
+    <Cell><Data ss:Type="String">QVD Input</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s21"><Data ss:Type="String">Folder</Data><NamedCell
+    <Cell><Data ss:Type="String">CSV Input</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s21"><Data ss:Type="String">QVD Output</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s21"><Data ss:Type="String">CSV Output</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s21"><Data ss:Type="String">Excel Output</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s21"><Data ss:Type="String">QVD Input</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s21"><Data ss:Type="String">CSV Input</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s21"><Data ss:Type="String">Excel Input</Data><NamedCell
+    <Cell><Data ss:Type="String">Excel Input</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="117" ss:Hidden="1" ss:StyleID="s18">
-    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="117" ss:StyleID="s73">
+    <Cell><Data ss:Type="Number">12345</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">01_Extraction</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">CONCUR_Data_Model_Pre_SA_REDUCTION_Commercial</Data><NamedCell
+    <Cell ss:StyleID="s74"><Data ss:Type="String">CONCUR_Data_Model_Pre_SA_REDUCTION_Commercial</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="117" ss:Hidden="1" ss:StyleID="s18">
+   <Row ss:AutoFitHeight="0" ss:Height="117" ss:StyleID="s73">
     <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">01_Extraction</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">SHARP_Financial_Data_Model_Pre_SA_REDUCTION_OTL</Data><NamedCell
+    <Cell ss:StyleID="s74"><Data ss:Type="String">SHARP_Financial_Data_Model_Pre_SA_REDUCTION_OTL</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="117" ss:Hidden="1" ss:StyleID="s18">
+   <Row ss:AutoFitHeight="0" ss:Height="117" ss:StyleID="s73">
     <Cell><Data ss:Type="Number">3</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">01_Extraction</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s19"><Data ss:Type="String">SHARP_Financial_Data_Model_Pre_SA_REDUCTION_with_EBS_Ledger_Reduction</Data><NamedCell
+    <Cell ss:StyleID="s74"><Data ss:Type="String">SHARP_Financial_Data_Model_Pre_SA_REDUCTION_with_EBS_Ledger_Reduction</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="117" ss:Hidden="1" ss:StyleID="s18">
+   <Row ss:AutoFitHeight="0" ss:Height="117" ss:StyleID="s73">
     <Cell><Data ss:Type="Number">4</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">01_Extraction</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">CMC SharePoint Extraction</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:Index="10" ss:StyleID="s20"><Data ss:Type="String">FROM [https://sharepoint2013/sites/CMCPM/Reports/_vti_bin/owssvr.dll?Cmd=Display&amp;XMLDATA=1&amp;RowLimit=0&amp;List={047F02F6%2DBD36%2D4206%2DBDE4%2D0E17E4218466}] (XmlSimple, Table is [xml/data/row]);&#13;&#10;FROM [https://sharepoint2013/sites/CMCPM/Reports/_vti_bin/owssvr.dll?Cmd=Display&amp;XMLDATA=1&amp;RowLimit=0&amp;List={2CA81131%2DB138%2D4DCC%2D959F%2D32C67F42BB97}] (XmlSimple, Table is [xml/data/row]);&#13;&#10;FROM [https://sharepoint2013/sites/CMCPM/Reports/_vti_bin/owssvr.dll?Cmd=Display&amp;XMLDATA=1&amp;RowLimit=0&amp;List={806C1AB8%2D63D3%2D4E9F%2D86CB%2D38D7FD980615}] (XmlSimple, Table is [xml/data/row]);&#13;&#10;</Data><NamedCell
+    <Cell ss:Index="10" ss:StyleID="s75"><Data ss:Type="String">FROM [https://sharepoint2013/sites/CMCPM/Reports/_vti_bin/owssvr.dll?Cmd=Display&amp;XMLDATA=1&amp;RowLimit=0&amp;List={047F02F6%2DBD36%2D4206%2DBDE4%2D0E17E4218466}] (XmlSimple, Table is [xml/data/row]);&#13;&#10;FROM [https://sharepoint2013/sites/CMCPM/Reports/_vti_bin/owssvr.dll?Cmd=Display&amp;XMLDATA=1&amp;RowLimit=0&amp;List={2CA81131%2DB138%2D4DCC%2D959F%2D32C67F42BB97}] (XmlSimple, Table is [xml/data/row]);&#13;&#10;FROM [https://sharepoint2013/sites/CMCPM/Reports/_vti_bin/owssvr.dll?Cmd=Display&amp;XMLDATA=1&amp;RowLimit=0&amp;List={806C1AB8%2D63D3%2D4E9F%2D86CB%2D38D7FD980615}] (XmlSimple, Table is [xml/data/row]);&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">let vSourceFilePath = '\\tarqlkfs01p\qlikviewdata\sourcedocuments\01_Extraction\Data_CMC_PM_SharePoint';&#13;&#10;let LoadEndTime = Now(1);&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s75"><Data ss:Type="String">let vSourceFilePath = '\\tarqlkfs01p\qlikviewdata\sourcedocuments\01_Extraction\Data_CMC_PM_SharePoint';&#13;&#10;let LoadEndTime = Now(1);&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">[$(vSourceFilePath)\ADIRInfo.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\StratListSP.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\PSOrow.qvd](qvd);&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s75"><Data ss:Type="String">[$(vSourceFilePath)\ADIRInfo.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\StratListSP.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\PSOrow.qvd](qvd);&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="117" ss:Hidden="1" ss:StyleID="s18">
+   <Row ss:AutoFitHeight="0" ss:Height="117" ss:StyleID="s73">
     <Cell><Data ss:Type="Number">5</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">01_Extraction</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">CONCUR_Data_Model_Pre_SA</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:Index="11" ss:StyleID="s20"><Data ss:Type="String">let vLoadStartTime= Now(1);&#13;&#10;let vSourceFilePath = '\\tarevs01\TARDATA\Data\Commercial\Field Expense Trackers';&#13;&#10;let vSourceFilePathCommercial = '$(vInclude)\QlikViewData\SourceDocuments\01_Extraction\Data_Commercial_FF_Expenses';&#13;&#10;let vSourceFilePathCONCUR = '$(vInclude)\QlikViewData\SourceDocuments\01_Extraction\Data_CONCUR';&#13;&#10;let vSourceFilePathSHARP = '$(vInclude)\QlikViewData\SourceDocuments\01_Extraction\Data_SHARP_Finance';&#13;&#10;let vSourceFilePathCOMPASS = '$(vInclude)\QlikViewData\SourceDocuments\01_Extraction\Data_MSP_Direct';&#13;&#10;let vLoadEndTime = Now(1);&#13;&#10;</Data><NamedCell
+    <Cell ss:Index="11" ss:StyleID="s75"><Data ss:Type="String">let vLoadStartTime= Now(1);&#13;&#10;let vSourceFilePath = '\\tarevs01\TARDATA\Data\Commercial\Field Expense Trackers';&#13;&#10;let vSourceFilePathCommercial = '$(vInclude)\QlikViewData\SourceDocuments\01_Extraction\Data_Commercial_FF_Expenses';&#13;&#10;let vSourceFilePathCONCUR = '$(vInclude)\QlikViewData\SourceDocuments\01_Extraction\Data_CONCUR';&#13;&#10;let vSourceFilePathSHARP = '$(vInclude)\QlikViewData\SourceDocuments\01_Extraction\Data_SHARP_Finance';&#13;&#10;let vSourceFilePathCOMPASS = '$(vInclude)\QlikViewData\SourceDocuments\01_Extraction\Data_MSP_Direct';&#13;&#10;let vLoadEndTime = Now(1);&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:Index="15" ss:StyleID="s20"><Data ss:Type="String">[$(vSourceFilePathCONCUR)\REGN_CONCUR_SAE_QUEUE.qvd]&#13;&#10;[$(vSourceFilePathCommercial)\V_COMMERCIAL_SECURITY_ROLES.qvd]&#13;&#10;[$(vSourceFilePathCONCUR)\REGN_CONCUR_SAE.qvd](qvd)&#13;&#10;[$(vSourceFilePathCommercial)\DIM_EMPLOYEE_ROSTER_DATA_HISTORICAL.qvd]&#13;&#10;[$(vSourceFilePathCONCUR)\CONCUR_HEADERS.qvd]&#13;&#10;[$(vSourceFilePathSHARP)\DIM_EMPLOYEE.qvd]&#13;&#10;[$(vSourceFilePathCONCUR)\REGN_CONCUR_ATTENDEE.qvd]&#13;&#10;[$(vSourceFilePathSHARP)\DIM_ACCOUNT_HIER.qvd]&#13;&#10;[$(vSourceFilePathSHARP)\DIM_COST_CENTER_HIER.qvd]&#13;&#10;[$(vSourceFilePathSHARP)\DIM_PROJECT.qvd]&#13;&#10;[$(vSourceFilePathCommercial)\DIM_COMMERCIAL_HIERARCHY.qvd]&#13;&#10;[$(vSourceFilePathSHARP)\FACT_FIN_EXCHANGE_RATE.qvd]&#13;&#10;[$(vSourceFilePathSHARP)\DIM_ACCOUNT_HIER.qvd]&#13;&#10;[$(vSourceFilePathSHARP)\DIM_COST_CENTER_HIER.qvd]&#13;&#10;[$(vSourceFilePathSHARP)\DIM_CALENDAR.qvd]&#13;&#10;[$(vSourceFilePathCommercial)\DIM_EMPLOYEE_ROSTER_DATA.qvd]&#13;&#10;[$(vSourceFilePathSHARP)\V_FIN_SECURITY_MATRIX_ROLE.qvd]&#13;&#10;</Data><NamedCell
+    <Cell ss:Index="15" ss:StyleID="s75"><Data ss:Type="String">[$(vSourceFilePathCONCUR)\REGN_CONCUR_SAE_QUEUE.qvd]&#13;&#10;[$(vSourceFilePathCommercial)\V_COMMERCIAL_SECURITY_ROLES.qvd]&#13;&#10;[$(vSourceFilePathCONCUR)\REGN_CONCUR_SAE.qvd](qvd)&#13;&#10;[$(vSourceFilePathCommercial)\DIM_EMPLOYEE_ROSTER_DATA_HISTORICAL.qvd]&#13;&#10;[$(vSourceFilePathCONCUR)\CONCUR_HEADERS.qvd]&#13;&#10;[$(vSourceFilePathSHARP)\DIM_EMPLOYEE.qvd]&#13;&#10;[$(vSourceFilePathCONCUR)\REGN_CONCUR_ATTENDEE.qvd]&#13;&#10;[$(vSourceFilePathSHARP)\DIM_ACCOUNT_HIER.qvd]&#13;&#10;[$(vSourceFilePathSHARP)\DIM_COST_CENTER_HIER.qvd]&#13;&#10;[$(vSourceFilePathSHARP)\DIM_PROJECT.qvd]&#13;&#10;[$(vSourceFilePathCommercial)\DIM_COMMERCIAL_HIERARCHY.qvd]&#13;&#10;[$(vSourceFilePathSHARP)\FACT_FIN_EXCHANGE_RATE.qvd]&#13;&#10;[$(vSourceFilePathSHARP)\DIM_ACCOUNT_HIER.qvd]&#13;&#10;[$(vSourceFilePathSHARP)\DIM_COST_CENTER_HIER.qvd]&#13;&#10;[$(vSourceFilePathSHARP)\DIM_CALENDAR.qvd]&#13;&#10;[$(vSourceFilePathCommercial)\DIM_EMPLOYEE_ROSTER_DATA.qvd]&#13;&#10;[$(vSourceFilePathSHARP)\V_FIN_SECURITY_MATRIX_ROLE.qvd]&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:Index="17" ss:StyleID="s20"><Data ss:Type="String">[$(vSourceFilePath)\Concur_Expense_Type_Budget_Mapping.xlsx]&#13;&#10;[$(vSourceFilePath)\Concur_Cost_Center_Product_Mapping.xlsx]&#13;&#10;[$(vSourceFilePath)\Concur_Cost_Center_Product_Mapping.xlsx]&#13;&#10;[$(vSourceFilePath)\Concur_Budget.xlsx]&#13;&#10;[$(vSourceFilePath)\Concur_Speaker_Spend.xlsx]&#13;&#10;[$(vSourceFilePath)\Concur_Expense_Type_Budget_Mapping.xlsx]&#13;&#10;[\\tarevs01\TARDATA\Data\Commercial\Field Expense Trackers\Concur_Displays_Sponsorships.xlsx]&#13;&#10;[$(vSourceFilePath)\Concur_Expense_Type_Budget_Mapping.xlsx]&#13;&#10;[$(vSourceFilePath)\Concur_Expense_Type_Budget_Mapping.xlsx]&#13;&#10;</Data><NamedCell
+    <Cell ss:Index="17" ss:StyleID="s75"><Data ss:Type="String">[$(vSourceFilePath)\Concur_Expense_Type_Budget_Mapping.xlsx]&#13;&#10;[$(vSourceFilePath)\Concur_Cost_Center_Product_Mapping.xlsx]&#13;&#10;[$(vSourceFilePath)\Concur_Cost_Center_Product_Mapping.xlsx]&#13;&#10;[$(vSourceFilePath)\Concur_Budget.xlsx]&#13;&#10;[$(vSourceFilePath)\Concur_Speaker_Spend.xlsx]&#13;&#10;[$(vSourceFilePath)\Concur_Expense_Type_Budget_Mapping.xlsx]&#13;&#10;[\\tarevs01\TARDATA\Data\Commercial\Field Expense Trackers\Concur_Displays_Sponsorships.xlsx]&#13;&#10;[$(vSourceFilePath)\Concur_Expense_Type_Budget_Mapping.xlsx]&#13;&#10;[$(vSourceFilePath)\Concur_Expense_Type_Budget_Mapping.xlsx]&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="117" ss:Hidden="1" ss:StyleID="s18">
+   <Row ss:AutoFitHeight="0" ss:Height="117" ss:StyleID="s73">
     <Cell><Data ss:Type="Number">6</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">01_Extraction</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">extraction_CDRA - Copy</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">ODBC&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s75"><Data ss:Type="String">ODBC&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">[ERPTPRD;DBQ=TNS_ADMIN] (XUserId is HIIRRRRMSLYeFZdNfKdGXSJOYF, XPassword is YSJANUdKGCJUVQdGFSLB);&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s75"><Data ss:Type="String">[ERPTPRD;DBQ=TNS_ADMIN] (XUserId is HIIRRRRMSLYeFZdNfKdGXSJOYF, XPassword is YSJANUdKGCJUVQdGFSLB);&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:Index="9" ss:StyleID="s20"><Data ss:Type="String">FROM &quot;EDW_ODS&quot;.&quot;V_SP_CDRA_COUNTRIES&quot;;&#13;&#10;FROM &quot;EDW_ODS&quot;.&quot;V_RPT_CRO_PLAN&quot;;&#13;&#10;FROM &quot;EDW_ODS&quot;.&quot;V_SP_CDRA_STUDY_NUMBER&quot;;&#13;&#10;FROM &quot;EDW_ODS&quot;.&quot;V_RPT_IVRS_ALL_DATA&quot;;&#13;&#10;FROM &quot;EDW_ODS&quot;.&quot;V_SP_CDRA_STUDY_TEAM_ROSTER&quot;;&#13;&#10;FROM &quot;EDW_ODS&quot;.&quot;V_SP_CDRA_STUDY_PARTICIPATION&quot;;&#13;&#10;FROM &quot;EDW_ODS&quot;.&quot;V_SP_CDRA_TE_CATALOGUE&quot;;&#13;&#10;FROM &quot;EDW_ODS&quot;.&quot;V_SP_CDRA_KEY_RESULTS&quot;;&#13;&#10;</Data><NamedCell
+    <Cell ss:Index="9" ss:StyleID="s75"><Data ss:Type="String">FROM &quot;EDW_ODS&quot;.&quot;V_SP_CDRA_COUNTRIES&quot;;&#13;&#10;FROM &quot;EDW_ODS&quot;.&quot;V_RPT_CRO_PLAN&quot;;&#13;&#10;FROM &quot;EDW_ODS&quot;.&quot;V_SP_CDRA_STUDY_NUMBER&quot;;&#13;&#10;FROM &quot;EDW_ODS&quot;.&quot;V_RPT_IVRS_ALL_DATA&quot;;&#13;&#10;FROM &quot;EDW_ODS&quot;.&quot;V_SP_CDRA_STUDY_TEAM_ROSTER&quot;;&#13;&#10;FROM &quot;EDW_ODS&quot;.&quot;V_SP_CDRA_STUDY_PARTICIPATION&quot;;&#13;&#10;FROM &quot;EDW_ODS&quot;.&quot;V_SP_CDRA_TE_CATALOGUE&quot;;&#13;&#10;FROM &quot;EDW_ODS&quot;.&quot;V_SP_CDRA_KEY_RESULTS&quot;;&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:Index="12" ss:StyleID="s20"><Data ss:Type="String">[$(vInclude)\QlikviewData\SourceDocuments\01_Extraction\data\V_SP_CDRA_COUNTRIES.qvd];&#13;&#10;[$(vInclude)\QlikviewData\SourceDocuments\01_Extraction\data\V_RPT_CRO_PLAN.qvd];&#13;&#10;[$(vInclude)\QlikviewData\SourceDocuments\01_Extraction\data\V_SP_CDRA_STUDY_NUMBER.qvd];&#13;&#10;[$(vInclude)\QlikviewData\SourceDocuments\01_Extraction\data\V_RPT_IVRS_NEW.qvd];&#13;&#10;[$(vInclude)\QlikviewData\SourceDocuments\01_Extraction\data\V_SP_CDRA_STUDY_TEAM_ROSTER.qvd];&#13;&#10;[$(vInclude)\QlikviewData\SourceDocuments\01_Extraction\data\V_SP_CDRA_STUDY_PARTICIPATION.qvd];&#13;&#10;[$(vInclude)\QlikviewData\SourceDocuments\01_Extraction\data\V_SP_CDRA_TE_CATALOGUE.qvd];&#13;&#10;[$(vInclude)\QlikviewData\SourceDocuments\01_Extraction\data\V_SP_CDRA_KEY_RESULTS.qvd];&#13;&#10;</Data><NamedCell
+    <Cell ss:Index="12" ss:StyleID="s75"><Data ss:Type="String">[$(vInclude)\QlikviewData\SourceDocuments\01_Extraction\data\V_SP_CDRA_COUNTRIES.qvd];&#13;&#10;[$(vInclude)\QlikviewData\SourceDocuments\01_Extraction\data\V_RPT_CRO_PLAN.qvd];&#13;&#10;[$(vInclude)\QlikviewData\SourceDocuments\01_Extraction\data\V_SP_CDRA_STUDY_NUMBER.qvd];&#13;&#10;[$(vInclude)\QlikviewData\SourceDocuments\01_Extraction\data\V_RPT_IVRS_NEW.qvd];&#13;&#10;[$(vInclude)\QlikviewData\SourceDocuments\01_Extraction\data\V_SP_CDRA_STUDY_TEAM_ROSTER.qvd];&#13;&#10;[$(vInclude)\QlikviewData\SourceDocuments\01_Extraction\data\V_SP_CDRA_STUDY_PARTICIPATION.qvd];&#13;&#10;[$(vInclude)\QlikviewData\SourceDocuments\01_Extraction\data\V_SP_CDRA_TE_CATALOGUE.qvd];&#13;&#10;[$(vInclude)\QlikviewData\SourceDocuments\01_Extraction\data\V_SP_CDRA_KEY_RESULTS.qvd];&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="117" ss:Hidden="1" ss:StyleID="s18">
+   <Row ss:AutoFitHeight="0" ss:Height="117" ss:StyleID="s73">
     <Cell><Data ss:Type="Number">7</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">01_Extraction</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">extraction_CDRA</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">ODBC&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s75"><Data ss:Type="String">ODBC&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">[ERPTPRD;DBQ=TNS_ADMIN] (XUserId is HIIRRRRMSLYeFZdNfKdGXSJOYF, XPassword is YSJANUdKGCJUVQdGFSLB);&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s75"><Data ss:Type="String">[ERPTPRD;DBQ=TNS_ADMIN] (XUserId is HIIRRRRMSLYeFZdNfKdGXSJOYF, XPassword is YSJANUdKGCJUVQdGFSLB);&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:Index="9" ss:StyleID="s20"><Data ss:Type="String">FROM &quot;EDW_ODS&quot;.&quot;V_SP_CDRA_COUNTRIES&quot;;&#13;&#10;FROM &quot;EDW_ODS&quot;.&quot;V_RPT_CRO_PLAN&quot;;&#13;&#10;FROM &quot;EDW_ODS&quot;.&quot;V_SP_CDRA_STUDY_NUMBER&quot;;&#13;&#10;FROM &quot;EDW_ODS&quot;.&quot;V_RPT_IVRS_ALL_DATA&quot;;&#13;&#10;FROM &quot;EDW_ODS&quot;.&quot;V_SP_CDRA_STUDY_PARTICIPATION&quot;;&#13;&#10;</Data><NamedCell
+    <Cell ss:Index="9" ss:StyleID="s75"><Data ss:Type="String">FROM &quot;EDW_ODS&quot;.&quot;V_SP_CDRA_COUNTRIES&quot;;&#13;&#10;FROM &quot;EDW_ODS&quot;.&quot;V_RPT_CRO_PLAN&quot;;&#13;&#10;FROM &quot;EDW_ODS&quot;.&quot;V_SP_CDRA_STUDY_NUMBER&quot;;&#13;&#10;FROM &quot;EDW_ODS&quot;.&quot;V_RPT_IVRS_ALL_DATA&quot;;&#13;&#10;FROM &quot;EDW_ODS&quot;.&quot;V_SP_CDRA_STUDY_PARTICIPATION&quot;;&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:Index="12" ss:StyleID="s20"><Data ss:Type="String">[$(vInclude)\QlikviewData\SourceDocuments\01_Extraction\data\V_SP_CDRA_COUNTRIES.qvd];&#13;&#10;[$(vInclude)\QlikviewData\SourceDocuments\01_Extraction\data\V_RPT_CRO_PLAN.qvd];&#13;&#10;[$(vInclude)\QlikviewData\SourceDocuments\01_Extraction\data\V_SP_CDRA_STUDY_NUMBER.qvd];&#13;&#10;[$(vInclude)\QlikviewData\SourceDocuments\01_Extraction\data\V_RPT_IVRS_NEW.qvd];&#13;&#10;[$(vInclude)\QlikviewData\SourceDocuments\01_Extraction\data\V_SP_CDRA_STUDY_PARTICIPATION.qvd];&#13;&#10;</Data><NamedCell
+    <Cell ss:Index="12" ss:StyleID="s75"><Data ss:Type="String">[$(vInclude)\QlikviewData\SourceDocuments\01_Extraction\data\V_SP_CDRA_COUNTRIES.qvd];&#13;&#10;[$(vInclude)\QlikviewData\SourceDocuments\01_Extraction\data\V_RPT_CRO_PLAN.qvd];&#13;&#10;[$(vInclude)\QlikviewData\SourceDocuments\01_Extraction\data\V_SP_CDRA_STUDY_NUMBER.qvd];&#13;&#10;[$(vInclude)\QlikviewData\SourceDocuments\01_Extraction\data\V_RPT_IVRS_NEW.qvd];&#13;&#10;[$(vInclude)\QlikviewData\SourceDocuments\01_Extraction\data\V_SP_CDRA_STUDY_PARTICIPATION.qvd];&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="117" ss:Hidden="1" ss:StyleID="s18">
+   <Row ss:AutoFitHeight="0" ss:Height="117" ss:StyleID="s73">
     <Cell><Data ss:Type="Number">8</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">01_Extraction</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">Extraction_CONCUR</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:Index="6" ss:StyleID="s20"><Data ss:Type="String">OLEDB&#13;&#10;</Data><NamedCell
+    <Cell ss:Index="6" ss:StyleID="s75"><Data ss:Type="String">OLEDB&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">[Provider=MSDASQL.1;Persist Security Info=True;User ID=FIN_RO_USER;Data Source=ERPTPRD;Extended Properties=&quot;DSN=ERPTPRD;UID=FIN_RO_USER;DBQ=TNS_ADMIN;DBA=W;APA=T;EXC=F;FEN=T;QTO=T;FRC=10;FDL=10;LOB=T;RST=T;BTD=F;BNF=F;BAM=IfAllSuccessful;NUM=NLS;DPM=F;MTS=T;MDI=F;CSR=F;FWC=F;FBS=64000;TLO=O;MLD=0;ODA=F;&quot;] (XPassword is LPPJBaNIRRNIDaUOWLLA);&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s75"><Data ss:Type="String">[Provider=MSDASQL.1;Persist Security Info=True;User ID=FIN_RO_USER;Data Source=ERPTPRD;Extended Properties=&quot;DSN=ERPTPRD;UID=FIN_RO_USER;DBQ=TNS_ADMIN;DBA=W;APA=T;EXC=F;FEN=T;QTO=T;FRC=10;FDL=10;LOB=T;RST=T;BTD=F;BNF=F;BAM=IfAllSuccessful;NUM=NLS;DPM=F;MTS=T;MDI=F;CSR=F;FWC=F;FBS=64000;TLO=O;MLD=0;ODA=F;&quot;] (XPassword is LPPJBaNIRRNIDaUOWLLA);&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:Index="9" ss:StyleID="s20"><Data ss:Type="String">FROM &quot;EDW_ODS&quot;.&quot;REGN_CONCUR_SAE&quot;;&#13;&#10;FROM &quot;EDW_ODS&quot;.&quot;REGN_CONCUR_SAE_QUEUE&quot;;&#13;&#10;FROM &quot;EDW_ODS&quot;.&quot;REGN_CONCUR_ATTENDEE_QUEUE&quot;;&#13;&#10;FROM &quot;EDW_ODS&quot;.&quot;REGN_CONCUR_ATTENDEE&quot;;&#13;&#10;FROM &quot;EDW_ODS&quot;.&quot;CONCUR_HEADERS&quot;;&#13;&#10;</Data><NamedCell
+    <Cell ss:Index="9" ss:StyleID="s75"><Data ss:Type="String">FROM &quot;EDW_ODS&quot;.&quot;REGN_CONCUR_SAE&quot;;&#13;&#10;FROM &quot;EDW_ODS&quot;.&quot;REGN_CONCUR_SAE_QUEUE&quot;;&#13;&#10;FROM &quot;EDW_ODS&quot;.&quot;REGN_CONCUR_ATTENDEE_QUEUE&quot;;&#13;&#10;FROM &quot;EDW_ODS&quot;.&quot;REGN_CONCUR_ATTENDEE&quot;;&#13;&#10;FROM &quot;EDW_ODS&quot;.&quot;CONCUR_HEADERS&quot;;&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:Index="11" ss:StyleID="s20"><Data ss:Type="String">let vLoadStartTime= Now(1);&#13;&#10;let vSourceFilePath = '$(vInclude)\QlikViewData\SourceDocuments\01_Extraction\Data_CONCUR';&#13;&#10;let vSourceFilePathSHARP = '$(vInclude)\QlikViewData\SourceDocuments\01_Extraction\Data_SHARP_Finance';&#13;&#10;let vLoadEndTime= Now(1);&#13;&#10;</Data><NamedCell
+    <Cell ss:Index="11" ss:StyleID="s75"><Data ss:Type="String">let vLoadStartTime= Now(1);&#13;&#10;let vSourceFilePath = '$(vInclude)\QlikViewData\SourceDocuments\01_Extraction\Data_CONCUR';&#13;&#10;let vSourceFilePathSHARP = '$(vInclude)\QlikViewData\SourceDocuments\01_Extraction\Data_SHARP_Finance';&#13;&#10;let vLoadEndTime= Now(1);&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">[$(vSourceFilePath)\REGN_CONCUR_SAE.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\REGN_CONCUR_SAE_QUEUE.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\REGN_CONCUR_ATTENDEE_QUEUE.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\REGN_CONCUR_ATTENDEE.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\CONCUR_HEADERS.qvd](qvd);&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s75"><Data ss:Type="String">[$(vSourceFilePath)\REGN_CONCUR_SAE.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\REGN_CONCUR_SAE_QUEUE.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\REGN_CONCUR_ATTENDEE_QUEUE.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\REGN_CONCUR_ATTENDEE.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\CONCUR_HEADERS.qvd](qvd);&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="117" ss:Hidden="1" ss:StyleID="s18">
+   <Row ss:AutoFitHeight="0" ss:Height="117" ss:StyleID="s73">
     <Cell><Data ss:Type="Number">9</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">01_Extraction</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">Extraction_LIMS_Nautilus</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">ODBC&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s75"><Data ss:Type="String">ODBC&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">[LIMSPROD;DBQ=LIMSPROD] (XUserId is VHTZNIVITaXCFLFJFaVAH, XPassword is bcYARVBNXCZITacGTLQAP);&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s75"><Data ss:Type="String">[LIMSPROD;DBQ=LIMSPROD] (XUserId is VHTZNIVITaXCFLFJFaVAH, XPassword is bcYARVBNXCZITacGTLQAP);&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:Index="9" ss:StyleID="s20"><Data ss:Type="String">FROM &quot;LIMS_SYS&quot;.&quot;U_PES_BST_METRICS&quot;;&#13;&#10;</Data><NamedCell
+    <Cell ss:Index="9" ss:StyleID="s75"><Data ss:Type="String">FROM &quot;LIMS_SYS&quot;.&quot;U_PES_BST_METRICS&quot;;&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:Index="12" ss:StyleID="s20"><Data ss:Type="String">[$(vInclude)\QlikviewData\SourceDocuments\01_Extraction\Data_LIMS_Nautilus\LIMS_Nautilus.qvd] (qvd);&#13;&#10;</Data><NamedCell
+    <Cell ss:Index="12" ss:StyleID="s75"><Data ss:Type="String">[$(vInclude)\QlikviewData\SourceDocuments\01_Extraction\Data_LIMS_Nautilus\LIMS_Nautilus.qvd] (qvd);&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="117" ss:Hidden="1" ss:StyleID="s18">
+   <Row ss:AutoFitHeight="0" ss:Height="117" ss:StyleID="s73">
     <Cell><Data ss:Type="Number">10</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">01_Extraction</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">Extraction_MSP_Direct</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">ODBC&#13;&#10;ODBC&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s75"><Data ss:Type="String">ODBC&#13;&#10;ODBC&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">ProjectWebApp_COMPASS_PROD;&#13;&#10;WSS_Content_2013_COMPASS_PROD;&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s75"><Data ss:Type="String">ProjectWebApp_COMPASS_PROD;&#13;&#10;WSS_Content_2013_COMPASS_PROD;&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:Index="9" ss:StyleID="s20"><Data ss:Type="String">FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSPLT_Cost Center_UserView&quot; (nolock);&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSP_EpmEnterpriseProjectType&quot; (nolock);&#13;&#10;FROM ProjectWebApp_COMPASS.dbo.MSP_EpmProject_UserView&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSPCFPRJ_Assay(s) Planned_AssociationView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSPLT_Assay(s)_Planned_LT_UserView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSPCFPRJ_Drug Candidate Program_AssociationView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSPLT_Drug Candidate Program_UserView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSPCFPRJ_Drug Development Project_AssociationView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSPLT_Drug Development Project_UserView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSPCFPRJ_CD Study Nature of Amendment_AssociationView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSPLT_CD_Study_NatofAmend_UserView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSPCFPRJ_CD Study Reason for Amendment_AssociationView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSPLT_CD_Study_ReasonAmend_UserView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSPCFPRJ_CD Study List of Countries_AssociationView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSPLT_CD_ListofCountries_UserView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSPCFPRJ_Region(s)_AssociationView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSPLT_Region_MultiSelect_LT_UserView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSP_EpmTask_UserView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSPCFTASK_Report Assignment_AssociationView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSPLT_Report_Assignment_UserView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSPCFTASK_Task Owner_AssociationView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSPLT_Task Owner LT_UserView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSPLT_Report_Tag_Root_LT_UserView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSP_EpmResource_UserView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSP_EpmResourceByDay_UserView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSP_EpmAssignment_UserView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSP_EpmAssignmentByDay_UserView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSP_EpmWorkflowPhase&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSP_EpmWorkflowStage&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSP_EpmWorkflowStatusInformation&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.pub.&quot;MSP_PROJECTS&quot; (nolock);&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.pub.&quot;MSP_TASKS&quot; (nolock);&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.pub.&quot;MSP_RESOURCES&quot; (nolock);&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.pub.&quot;MSP_Links&quot; l (nolock)&#13;&#10;FROM pub.[MSP_PROJECTS_WORKING_VIEW] p (nolock)&#13;&#10;from pub.[MSP_PROJ_CUSTOM_FIELD_VALUES_WORKING_VIEW] (nolock) pcfv&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.pub.TASK (nolock);&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.pub.&quot;MSP_TASK_BASELINES&quot;&#13;&#10;From [RBS] from [pub].[MSP_RES_CUSTOM_FIELD_VALUES] (nolock) rcfv&#13;&#10; from [pub].[MSP_ASSN_CUSTOM_FIELD_VALUES_SAVED] (nolock) acfv&#13;&#10; from [pub].[MSP_PROJ_CUSTOM_FIELD_VALUES] (nolock) pcfv&#13;</Data><NamedCell
+    <Cell ss:Index="9" ss:StyleID="s75"><Data ss:Type="String">FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSPLT_Cost Center_UserView&quot; (nolock);&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSP_EpmEnterpriseProjectType&quot; (nolock);&#13;&#10;FROM ProjectWebApp_COMPASS.dbo.MSP_EpmProject_UserView&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSPCFPRJ_Assay(s) Planned_AssociationView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSPLT_Assay(s)_Planned_LT_UserView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSPCFPRJ_Drug Candidate Program_AssociationView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSPLT_Drug Candidate Program_UserView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSPCFPRJ_Drug Development Project_AssociationView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSPLT_Drug Development Project_UserView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSPCFPRJ_CD Study Nature of Amendment_AssociationView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSPLT_CD_Study_NatofAmend_UserView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSPCFPRJ_CD Study Reason for Amendment_AssociationView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSPLT_CD_Study_ReasonAmend_UserView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSPCFPRJ_CD Study List of Countries_AssociationView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSPLT_CD_ListofCountries_UserView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSPCFPRJ_Region(s)_AssociationView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSPLT_Region_MultiSelect_LT_UserView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSP_EpmTask_UserView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSPCFTASK_Report Assignment_AssociationView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSPLT_Report_Assignment_UserView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSPCFTASK_Task Owner_AssociationView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSPLT_Task Owner LT_UserView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSPLT_Report_Tag_Root_LT_UserView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSP_EpmResource_UserView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSP_EpmResourceByDay_UserView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSP_EpmAssignment_UserView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSP_EpmAssignmentByDay_UserView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSP_EpmWorkflowPhase&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSP_EpmWorkflowStage&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.dbo.&quot;MSP_EpmWorkflowStatusInformation&quot;;&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.pub.&quot;MSP_PROJECTS&quot; (nolock);&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.pub.&quot;MSP_TASKS&quot; (nolock);&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.pub.&quot;MSP_RESOURCES&quot; (nolock);&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.pub.&quot;MSP_Links&quot; l (nolock)&#13;&#10;FROM pub.[MSP_PROJECTS_WORKING_VIEW] p (nolock)&#13;&#10;from pub.[MSP_PROJ_CUSTOM_FIELD_VALUES_WORKING_VIEW] (nolock) pcfv&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.pub.TASK (nolock);&#13;&#10;FROM &quot;ProjectWebApp_COMPASS&quot;.pub.&quot;MSP_TASK_BASELINES&quot;&#13;&#10;From [RBS] from [pub].[MSP_RES_CUSTOM_FIELD_VALUES] (nolock) rcfv&#13;&#10; from [pub].[MSP_ASSN_CUSTOM_FIELD_VALUES_SAVED] (nolock) acfv&#13;&#10; from [pub].[MSP_PROJ_CUSTOM_FIELD_VALUES] (nolock) pcfv&#13;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:Index="11" ss:StyleID="s20"><Data ss:Type="String">let vLoadStartTime = Now(1);&#13;&#10;let vSourceFilePath = 		'\\tarqlkfs01p\QlikViewData\SourceDocuments\01_Extraction\Data_MSP_Direct';&#13;&#10;let vSourceFilePathTest = 	'\\AWSQLKFS01T\QlikViewData\SourceDocuments\01_Extraction\Data_MSP_Direct';&#13;&#10;let vSourceFilePathDev = 	'\\AWSQLKFS01D\QlikViewData\SourceDocuments\01_Extraction\Data_MSP_Direct';&#13;&#10;let vLoadEndTime = Now(1);&#13;&#10;</Data><NamedCell
+    <Cell ss:Index="11" ss:StyleID="s75"><Data ss:Type="String">let vLoadStartTime = Now(1);&#13;&#10;let vSourceFilePath =   '\\tarqlkfs01p\QlikViewData\SourceDocuments\01_Extraction\Data_MSP_Direct';&#13;&#10;let vSourceFilePathTest =  '\\AWSQLKFS01T\QlikViewData\SourceDocuments\01_Extraction\Data_MSP_Direct';&#13;&#10;let vSourceFilePathDev =  '\\AWSQLKFS01D\QlikViewData\SourceDocuments\01_Extraction\Data_MSP_Direct';&#13;&#10;let vLoadEndTime = Now(1);&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">[$(vSourceFilePath)\MSPLT_CostCenter_UserView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSPLT_CostCenter_UserView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSPLT_CostCenter_UserView.qvd];&#13;&#10;[$(vSourceFilePath)\MSP_EpmEnterpriseProjectType.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSP_EpmEnterpriseProjectType.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSP_EpmEnterpriseProjectType.qvd];&#13;&#10;[$(vSourceFilePath)\MSP_EpmProject_UserView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSP_EpmProject_UserView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSP_EpmProject_UserView.qvd];&#13;&#10;[$(vSourceFilePath)\MSPCFPRJ_Assays_Planned_AssociationView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSPCFPRJ_Assays_Planned_AssociationView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSPCFPRJ_Assays_Planned_AssociationView.qvd];&#13;&#10;[$(vSourceFilePath)\MSPLT_Assays_Planned_LT_UserView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSPLT_Assays_Planned_LT_UserView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSPLT_Assays_Planned_LT_UserView.qvd];&#13;&#10;[$(vSourceFilePath)\MSPCFPRJ_Drug_Candidate_Program_AssociationView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSPCFPRJ_Drug_Candidate_Program_AssociationView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSPCFPRJ_Drug_Candidate_Program_AssociationView.qvd];&#13;&#10;[$(vSourceFilePath)\MSPLT_Drug_Candidate_Program_UserView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSPLT_Drug_Candidate_Program_UserView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSPLT_Drug_Candidate_Program_UserView.qvd];&#13;&#10;[$(vSourceFilePath)\MSPCFPRJ_Drug_Development_Project_AssociationView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSPCFPRJ_Drug_Development_Project_AssociationView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSPCFPRJ_Drug_Development_Project_AssociationView.qvd];&#13;&#10;[$(vSourceFilePath)\MSPLT_Drug_Development_Project_UserView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSPLT_Drug_Development_Project_UserView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSPLT_Drug_Development_Project_UserView.qvd];&#13;&#10;[$(vSourceFilePath)\MSPCFPRJ_CD_Study_Nature_of_Amendment_AssociationView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSPCFPRJ_CD_Study_Nature_of_Amendment_AssociationView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSPCFPRJ_CD_Study_Nature_of_Amendment_AssociationView.qvd];&#13;&#10;[$(vSourceFilePath)\MSPLT_CD_Study_NatofAmend_UserView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSPLT_CD_Study_NatofAmend_UserView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSPLT_CD_Study_NatofAmend_UserView.qvd];&#13;&#10;[$(vSourceFilePath)\MSPCFPRJ_CD_Study_Reason_for_Amendment_AssociationView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSPCFPRJ_CD_Study_Reason_for_Amendment_AssociationView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSPCFPRJ_CD_Study_Reason_for_Amendment_AssociationView.qvd];&#13;&#10;[$(vSourceFilePath)\MSPLT_CD_Study_ReasonAmend_UserView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSPLT_CD_Study_ReasonAmend_UserView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSPLT_CD_Study_ReasonAmend_UserView.qvd];&#13;&#10;[$(vSourceFilePath)\MSPCFPRJ_CD_Study_List_of_Countries_AssociationView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSPCFPRJ_CD_Study_List_of_Countries_AssociationView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSPCFPRJ_CD_Study_List_of_Countries_AssociationView.qvd];&#13;&#10;[$(vSourceFilePath)\MSPLT_CD_ListofCountries_UserView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSPLT_CD_ListofCountries_UserView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSPLT_CD_ListofCountries_UserView.qvd];&#13;&#10;[$(vSourceFilePath)\MSPCFPRJ_Regions_AssociationView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSPCFPRJ_Regions_AssociationView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSPCFPRJ_Regions_AssociationView.qvd];&#13;&#10;[$(vSourceFilePath)\MSPLT_Region_MultiSelect_LT_UserView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSPLT_Region_MultiSelect_LT_UserView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSPLT_Region_MultiSelect_LT_UserView.qvd];&#13;&#10;[$(vSourceFilePath)\MSP_EpmTask_UserView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSP_EpmTask_UserView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSP_EpmTask_UserView.qvd];&#13;&#10;[$(vSourceFilePath)\MSPCFTASK_Report_Assignment_AssociationView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSPCFTASK_Report_Assignment_AssociationView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSPCFTASK_Report_Assignment_AssociationView.qvd];&#13;&#10;[$(vSourceFilePath)\MSPLT_Report_Assignment_UserView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSPLT_Report_Assignment_UserView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSPLT_Report_Assignment_UserView.qvd];&#13;&#10;[$(vSourceFilePath)\MSPCFTASK_Task_Owner_AssociationView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSPCFTASK_Task_Owner_AssociationView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSPCFTASK_Task_Owner_AssociationView.qvd];&#13;&#10;[$(vSourceFilePath)\MSPLT_Task_Owner_LT_UserView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSPLT_Task_Owner_LT_UserView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSPLT_Task_Owner_LT_UserView.qvd];&#13;&#10;[$(vSourceFilePath)\MSPLT_Report_Tag_Root_LT_UserView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSPLT_Report_Tag_Root_LT_UserView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSPLT_Report_Tag_Root_LT_UserView.qvd];&#13;&#10;[$(vSourceFilePath)\MSP_EpmResource_UserView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSP_EpmResource_UserView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSP_EpmResource_UserView.qvd];&#13;&#10;[$(vSourceFilePath)\MSP_EpmResourceByDay_UserView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSP_EpmResourceByDay_UserView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSP_EpmResourceByDay_UserView.qvd];&#13;&#10;[$(vSourceFilePath)\MSP_EpmAssignment_UserView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSP_EpmAssignment_UserView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSP_EpmAssignment_UserView.qvd];&#13;&#10;[$(vSourceFilePath)\MSP_EpmAssignmentByDay_UserView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSP_EpmAssignmentByDay_UserView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSP_EpmAssignmentByDay_UserView.qvd];&#13;&#10;[$(vSourceFilePath)\MSP_EpmWorkflowPhase.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSP_EpmWorkflowPhase.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSP_EpmWorkflowPhase.qvd];&#13;&#10;[$(vSourceFilePath)\MSP_EpmWorkflowStage.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSP_EpmWorkflowStage.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSP_EpmWorkflowStage.qvd];&#13;&#10;[$(vSourceFilePath)\MSP_EpmWorkflowStatusInformation.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSP_EpmWorkflowStatusInformation.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSP_EpmWorkflowStatusInformation.qvd];&#13;&#10;[$(vSourceFilePath)\MSP_PROJECTS.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSP_PROJECTS.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSP_PROJECTS.qvd];&#13;&#10;[$(vSourceFilePath)\MSP_TASKS.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSP_TASKS.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSP_TASKS.qvd];&#13;&#10;[$(vSourceFilePath)\MSP_RESOURCES.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSP_RESOURCES.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSP_RESOURCES.qvd];&#13;&#10;[$(vSourceFilePath)\MSP_LINKS.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSP_LINKS.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSP_LINKS.qvd];&#13;&#10;[$(vSourceFilePath)\TASK_NOTES.qvd];&#13;&#10;[$(vSourceFilePathTest)\TASK_NOTES.qvd];&#13;&#10;[$(vSourceFilePathDev)\TASK_NOTES.qvd];&#13;&#10;[$(vSourceFilePath)\MSP_TASK_BASELINES.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSP_TASK_BASELINES.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSP_TASK_BASELINES.qvd];&#13;&#10;[$(vSourceFilePath)\PCD_TaskUpdates.qvd];&#13;&#10;[$(vSourceFilePathTest)\PCD_TaskUpdates.qvd];&#13;&#10;[$(vSourceFilePathDev)\PCD_TaskUpdates.qvd];&#13;&#10;[$(vSourceFilePath)\PCD_StatusUpdates.qvd];&#13;&#10;[$(vSourceFilePathTest)\PCD_StatusUpdates.qvd];&#13;&#10;[$(vSourceFilePathDev)\PCD_StatusUpdates.qvd];&#13;&#10;[$(vSourceFilePath)\PCD_StatusUpdates_FullHistory.qvd];&#13;&#10;[$(vSourceFilePathTest)\PCD_StatusUpdates_FullHistory.qvd];&#13;&#10;[$(vSourceFilePathDev)\PCD_StatusUpdates_FullHistory.qvd];&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s75"><Data ss:Type="String">[$(vSourceFilePath)\MSPLT_CostCenter_UserView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSPLT_CostCenter_UserView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSPLT_CostCenter_UserView.qvd];&#13;&#10;[$(vSourceFilePath)\MSP_EpmEnterpriseProjectType.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSP_EpmEnterpriseProjectType.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSP_EpmEnterpriseProjectType.qvd];&#13;&#10;[$(vSourceFilePath)\MSP_EpmProject_UserView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSP_EpmProject_UserView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSP_EpmProject_UserView.qvd];&#13;&#10;[$(vSourceFilePath)\MSPCFPRJ_Assays_Planned_AssociationView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSPCFPRJ_Assays_Planned_AssociationView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSPCFPRJ_Assays_Planned_AssociationView.qvd];&#13;&#10;[$(vSourceFilePath)\MSPLT_Assays_Planned_LT_UserView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSPLT_Assays_Planned_LT_UserView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSPLT_Assays_Planned_LT_UserView.qvd];&#13;&#10;[$(vSourceFilePath)\MSPCFPRJ_Drug_Candidate_Program_AssociationView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSPCFPRJ_Drug_Candidate_Program_AssociationView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSPCFPRJ_Drug_Candidate_Program_AssociationView.qvd];&#13;&#10;[$(vSourceFilePath)\MSPLT_Drug_Candidate_Program_UserView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSPLT_Drug_Candidate_Program_UserView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSPLT_Drug_Candidate_Program_UserView.qvd];&#13;&#10;[$(vSourceFilePath)\MSPCFPRJ_Drug_Development_Project_AssociationView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSPCFPRJ_Drug_Development_Project_AssociationView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSPCFPRJ_Drug_Development_Project_AssociationView.qvd];&#13;&#10;[$(vSourceFilePath)\MSPLT_Drug_Development_Project_UserView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSPLT_Drug_Development_Project_UserView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSPLT_Drug_Development_Project_UserView.qvd];&#13;&#10;[$(vSourceFilePath)\MSPCFPRJ_CD_Study_Nature_of_Amendment_AssociationView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSPCFPRJ_CD_Study_Nature_of_Amendment_AssociationView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSPCFPRJ_CD_Study_Nature_of_Amendment_AssociationView.qvd];&#13;&#10;[$(vSourceFilePath)\MSPLT_CD_Study_NatofAmend_UserView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSPLT_CD_Study_NatofAmend_UserView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSPLT_CD_Study_NatofAmend_UserView.qvd];&#13;&#10;[$(vSourceFilePath)\MSPCFPRJ_CD_Study_Reason_for_Amendment_AssociationView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSPCFPRJ_CD_Study_Reason_for_Amendment_AssociationView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSPCFPRJ_CD_Study_Reason_for_Amendment_AssociationView.qvd];&#13;&#10;[$(vSourceFilePath)\MSPLT_CD_Study_ReasonAmend_UserView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSPLT_CD_Study_ReasonAmend_UserView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSPLT_CD_Study_ReasonAmend_UserView.qvd];&#13;&#10;[$(vSourceFilePath)\MSPCFPRJ_CD_Study_List_of_Countries_AssociationView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSPCFPRJ_CD_Study_List_of_Countries_AssociationView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSPCFPRJ_CD_Study_List_of_Countries_AssociationView.qvd];&#13;&#10;[$(vSourceFilePath)\MSPLT_CD_ListofCountries_UserView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSPLT_CD_ListofCountries_UserView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSPLT_CD_ListofCountries_UserView.qvd];&#13;&#10;[$(vSourceFilePath)\MSPCFPRJ_Regions_AssociationView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSPCFPRJ_Regions_AssociationView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSPCFPRJ_Regions_AssociationView.qvd];&#13;&#10;[$(vSourceFilePath)\MSPLT_Region_MultiSelect_LT_UserView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSPLT_Region_MultiSelect_LT_UserView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSPLT_Region_MultiSelect_LT_UserView.qvd];&#13;&#10;[$(vSourceFilePath)\MSP_EpmTask_UserView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSP_EpmTask_UserView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSP_EpmTask_UserView.qvd];&#13;&#10;[$(vSourceFilePath)\MSPCFTASK_Report_Assignment_AssociationView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSPCFTASK_Report_Assignment_AssociationView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSPCFTASK_Report_Assignment_AssociationView.qvd];&#13;&#10;[$(vSourceFilePath)\MSPLT_Report_Assignment_UserView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSPLT_Report_Assignment_UserView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSPLT_Report_Assignment_UserView.qvd];&#13;&#10;[$(vSourceFilePath)\MSPCFTASK_Task_Owner_AssociationView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSPCFTASK_Task_Owner_AssociationView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSPCFTASK_Task_Owner_AssociationView.qvd];&#13;&#10;[$(vSourceFilePath)\MSPLT_Task_Owner_LT_UserView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSPLT_Task_Owner_LT_UserView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSPLT_Task_Owner_LT_UserView.qvd];&#13;&#10;[$(vSourceFilePath)\MSPLT_Report_Tag_Root_LT_UserView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSPLT_Report_Tag_Root_LT_UserView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSPLT_Report_Tag_Root_LT_UserView.qvd];&#13;&#10;[$(vSourceFilePath)\MSP_EpmResource_UserView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSP_EpmResource_UserView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSP_EpmResource_UserView.qvd];&#13;&#10;[$(vSourceFilePath)\MSP_EpmResourceByDay_UserView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSP_EpmResourceByDay_UserView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSP_EpmResourceByDay_UserView.qvd];&#13;&#10;[$(vSourceFilePath)\MSP_EpmAssignment_UserView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSP_EpmAssignment_UserView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSP_EpmAssignment_UserView.qvd];&#13;&#10;[$(vSourceFilePath)\MSP_EpmAssignmentByDay_UserView.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSP_EpmAssignmentByDay_UserView.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSP_EpmAssignmentByDay_UserView.qvd];&#13;&#10;[$(vSourceFilePath)\MSP_EpmWorkflowPhase.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSP_EpmWorkflowPhase.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSP_EpmWorkflowPhase.qvd];&#13;&#10;[$(vSourceFilePath)\MSP_EpmWorkflowStage.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSP_EpmWorkflowStage.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSP_EpmWorkflowStage.qvd];&#13;&#10;[$(vSourceFilePath)\MSP_EpmWorkflowStatusInformation.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSP_EpmWorkflowStatusInformation.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSP_EpmWorkflowStatusInformation.qvd];&#13;&#10;[$(vSourceFilePath)\MSP_PROJECTS.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSP_PROJECTS.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSP_PROJECTS.qvd];&#13;&#10;[$(vSourceFilePath)\MSP_TASKS.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSP_TASKS.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSP_TASKS.qvd];&#13;&#10;[$(vSourceFilePath)\MSP_RESOURCES.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSP_RESOURCES.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSP_RESOURCES.qvd];&#13;&#10;[$(vSourceFilePath)\MSP_LINKS.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSP_LINKS.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSP_LINKS.qvd];&#13;&#10;[$(vSourceFilePath)\TASK_NOTES.qvd];&#13;&#10;[$(vSourceFilePathTest)\TASK_NOTES.qvd];&#13;&#10;[$(vSourceFilePathDev)\TASK_NOTES.qvd];&#13;&#10;[$(vSourceFilePath)\MSP_TASK_BASELINES.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSP_TASK_BASELINES.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSP_TASK_BASELINES.qvd];&#13;&#10;[$(vSourceFilePath)\PCD_TaskUpdates.qvd];&#13;&#10;[$(vSourceFilePathTest)\PCD_TaskUpdates.qvd];&#13;&#10;[$(vSourceFilePathDev)\PCD_TaskUpdates.qvd];&#13;&#10;[$(vSourceFilePath)\PCD_StatusUpdates.qvd];&#13;&#10;[$(vSourceFilePathTest)\PCD_StatusUpdates.qvd];&#13;&#10;[$(vSourceFilePathDev)\PCD_StatusUpdates.qvd];&#13;&#10;[$(vSourceFilePath)\PCD_StatusUpdates_FullHistory.qvd];&#13;&#10;[$(vSourceFilePathTest)\PCD_StatusUpdates_FullHistory.qvd];&#13;&#10;[$(vSourceFilePathDev)\PCD_StatusUpdates_FullHistory.qvd];&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">[$(vSourceFilePath)\MSP_EpmAssignment_UserView.csv] (txt);&#13;&#10;[$(vSourceFilePathTest)\MSP_EpmAssignment_UserView.csv] (txt);&#13;&#10;[$(vSourceFilePathDev)\MSP_EpmAssignment_UserView.csv] (txt);&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s75"><Data ss:Type="String">[$(vSourceFilePath)\MSP_EpmAssignment_UserView.csv] (txt);&#13;&#10;[$(vSourceFilePathTest)\MSP_EpmAssignment_UserView.csv] (txt);&#13;&#10;[$(vSourceFilePathDev)\MSP_EpmAssignment_UserView.csv] (txt);&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="117" ss:Hidden="1" ss:StyleID="s18">
+   <Row ss:AutoFitHeight="0" ss:Height="117" ss:StyleID="s73">
     <Cell><Data ss:Type="Number">11</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">01_Extraction</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">Extraction_MSP_Direct_CommPM</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">ODBC&#13;&#10;ODBC&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s75"><Data ss:Type="String">ODBC&#13;&#10;ODBC&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">ProjectWebApp_ComPM_PROD;&#13;&#10;WSS_Content_2013_ComPM_PROD;&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s75"><Data ss:Type="String">ProjectWebApp_ComPM_PROD;&#13;&#10;WSS_Content_2013_ComPM_PROD;&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:Index="9" ss:StyleID="s20"><Data ss:Type="String">FROM &quot;ProjectWebApp_ComPM&quot;.dbo.&quot;MSP_WssIssue&quot;;&#13;&#10;FROM &quot;ProjectWebApp_ComPM&quot;.dbo.&quot;MSP_EpmAssignment_UserView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_ComPM&quot;.dbo.&quot;MSP_EpmResource_UserView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_ComPM&quot;.dbo.&quot;MSP_EpmProject_UserView&quot;&#13;&#10;FROM &quot;ProjectWebApp_ComPM&quot;.dbo.&quot;MSP_EpmTask_UserView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_ComPM&quot;.pub.&quot;MSP_Links&quot; (nolock)&#13;</Data><NamedCell
+    <Cell ss:Index="9" ss:StyleID="s75"><Data ss:Type="String">FROM &quot;ProjectWebApp_ComPM&quot;.dbo.&quot;MSP_WssIssue&quot;;&#13;&#10;FROM &quot;ProjectWebApp_ComPM&quot;.dbo.&quot;MSP_EpmAssignment_UserView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_ComPM&quot;.dbo.&quot;MSP_EpmResource_UserView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_ComPM&quot;.dbo.&quot;MSP_EpmProject_UserView&quot;&#13;&#10;FROM &quot;ProjectWebApp_ComPM&quot;.dbo.&quot;MSP_EpmTask_UserView&quot;;&#13;&#10;FROM &quot;ProjectWebApp_ComPM&quot;.pub.&quot;MSP_Links&quot; (nolock)&#13;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:Index="11" ss:StyleID="s20"><Data ss:Type="String">let vLoadStartTime = Now(1);&#13;&#10;let vSourceFilePath = '\\TARQLKFS01P\QlikViewData\SourceDocuments\01_Extraction\Data_MSP_Direct_CommPM';&#13;&#10;let vSourceFilePathDev = '\\AWSQLKFS01D\QlikViewData\SourceDocuments\01_Extraction\Data_MSP_Direct_CommPM';&#13;&#10;let vSourceFilePathTest = '\\AWSQLKFS01t\QlikViewData\SourceDocuments\01_Extraction\Data_MSP_Direct_CommPM';&#13;&#10;let vLoadEndTime = Now(1);&#13;&#10;</Data><NamedCell
+    <Cell ss:Index="11" ss:StyleID="s75"><Data ss:Type="String">let vLoadStartTime = Now(1);&#13;&#10;let vSourceFilePath = '\\TARQLKFS01P\QlikViewData\SourceDocuments\01_Extraction\Data_MSP_Direct_CommPM';&#13;&#10;let vSourceFilePathDev = '\\AWSQLKFS01D\QlikViewData\SourceDocuments\01_Extraction\Data_MSP_Direct_CommPM';&#13;&#10;let vSourceFilePathTest = '\\AWSQLKFS01t\QlikViewData\SourceDocuments\01_Extraction\Data_MSP_Direct_CommPM';&#13;&#10;let vLoadEndTime = Now(1);&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">[$(vSourceFilePath)\CommPM_Issues.qvd];&#13;&#10;[$(vSourceFilePathDev)\CommPM_Issues.qvd];&#13;&#10;[$(vSourceFilePathTest)\CommPM_Issues.qvd];&#13;&#10;[$(vSourceFilePath)\CommPM_Assignments.qvd];&#13;&#10;[$(vSourceFilePathDev)\CommPM_Assignments.qvd];&#13;&#10;[$(vSourceFilePathTest)\CommPM_Assignments.qvd];&#13;&#10;[$(vSourceFilePath)\CommPM_Resources.qvd];&#13;&#10;[$(vSourceFilePathDev)\CommPM_Resources.qvd];&#13;&#10;[$(vSourceFilePathTest)\CommPM_Resources.qvd];&#13;&#10;[$(vSourceFilePath)\CommPM_Projects.qvd];&#13;&#10;[$(vSourceFilePathDev)\CommPM_Projects.qvd];&#13;&#10;[$(vSourceFilePathTest)\CommPM_Projects.qvd];&#13;&#10;[$(vSourceFilePath)\CommPM_Tasks.qvd];&#13;&#10;[$(vSourceFilePathDev)\CommPM_Tasks.qvd];&#13;&#10;[$(vSourceFilePathTest)\CommPM_Tasks.qvd];&#13;&#10;[$(vSourceFilePath)\CommPM_MSP_Links.qvd];&#13;&#10;[$(vSourceFilePathDev)\CommPM_MSP_Links.qvd];&#13;&#10;[$(vSourceFilePathTest)\CommPM_MSP_Links.qvd];&#13;&#10;[$(vSourceFilePath)\CommPM_ProjectSiteTasks.qvd] (QVD);&#13;&#10;[$(vSourceFilePathDev)\CommPM_ProjectSiteTasks.qvd] (QVD);&#13;&#10;[$(vSourceFilePathTest)\CommPM_ProjectSiteTasks.qvd] (QVD);&#13;&#10;[$(vSourceFilePath)\CommPM_StatusReports.qvd] (QVD);&#13;&#10;[$(vSourceFilePathDev)\CommPM_StatusReports.qvd] (QVD);&#13;&#10;[$(vSourceFilePathTest)\CommPM_StatusReports.qvd] (QVD);&#13;&#10;[$(vSourceFilePath)\CommPM_NewProjectEntreis.qvd];&#13;&#10;[$(vSourceFilePathDev)\CommPM_NewProjectEntreis.qvd];&#13;&#10;[$(vSourceFilePathTest)\CommPM_NewProjectEntreis.qvd];&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s75"><Data ss:Type="String">[$(vSourceFilePath)\CommPM_Issues.qvd];&#13;&#10;[$(vSourceFilePathDev)\CommPM_Issues.qvd];&#13;&#10;[$(vSourceFilePathTest)\CommPM_Issues.qvd];&#13;&#10;[$(vSourceFilePath)\CommPM_Assignments.qvd];&#13;&#10;[$(vSourceFilePathDev)\CommPM_Assignments.qvd];&#13;&#10;[$(vSourceFilePathTest)\CommPM_Assignments.qvd];&#13;&#10;[$(vSourceFilePath)\CommPM_Resources.qvd];&#13;&#10;[$(vSourceFilePathDev)\CommPM_Resources.qvd];&#13;&#10;[$(vSourceFilePathTest)\CommPM_Resources.qvd];&#13;&#10;[$(vSourceFilePath)\CommPM_Projects.qvd];&#13;&#10;[$(vSourceFilePathDev)\CommPM_Projects.qvd];&#13;&#10;[$(vSourceFilePathTest)\CommPM_Projects.qvd];&#13;&#10;[$(vSourceFilePath)\CommPM_Tasks.qvd];&#13;&#10;[$(vSourceFilePathDev)\CommPM_Tasks.qvd];&#13;&#10;[$(vSourceFilePathTest)\CommPM_Tasks.qvd];&#13;&#10;[$(vSourceFilePath)\CommPM_MSP_Links.qvd];&#13;&#10;[$(vSourceFilePathDev)\CommPM_MSP_Links.qvd];&#13;&#10;[$(vSourceFilePathTest)\CommPM_MSP_Links.qvd];&#13;&#10;[$(vSourceFilePath)\CommPM_ProjectSiteTasks.qvd] (QVD);&#13;&#10;[$(vSourceFilePathDev)\CommPM_ProjectSiteTasks.qvd] (QVD);&#13;&#10;[$(vSourceFilePathTest)\CommPM_ProjectSiteTasks.qvd] (QVD);&#13;&#10;[$(vSourceFilePath)\CommPM_StatusReports.qvd] (QVD);&#13;&#10;[$(vSourceFilePathDev)\CommPM_StatusReports.qvd] (QVD);&#13;&#10;[$(vSourceFilePathTest)\CommPM_StatusReports.qvd] (QVD);&#13;&#10;[$(vSourceFilePath)\CommPM_NewProjectEntreis.qvd];&#13;&#10;[$(vSourceFilePathDev)\CommPM_NewProjectEntreis.qvd];&#13;&#10;[$(vSourceFilePathTest)\CommPM_NewProjectEntreis.qvd];&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">[$(vSourceFilePath)\CommPM_StatusReports.csv] (TXT);&#13;&#10;[$(vSourceFilePathDev)\CommPM_StatusReports.csv] (TXT);&#13;&#10;[$(vSourceFilePathTest)\CommPM_StatusReports.csv] (TXT);&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s75"><Data ss:Type="String">[$(vSourceFilePath)\CommPM_StatusReports.csv] (TXT);&#13;&#10;[$(vSourceFilePathDev)\CommPM_StatusReports.csv] (TXT);&#13;&#10;[$(vSourceFilePathTest)\CommPM_StatusReports.csv] (TXT);&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="233.25" ss:Hidden="1" ss:StyleID="s18">
+   <Row ss:AutoFitHeight="0" ss:Height="233.25" ss:StyleID="s73">
     <Cell><Data ss:Type="Number">12</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">01_Extraction</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">Extraction_MSP_Direct_DraftDB</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">ODBC&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s75"><Data ss:Type="String">ODBC&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">ProjectWebApp_COMPASS_PROD;&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s75"><Data ss:Type="String">ProjectWebApp_COMPASS_PROD;&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:Index="9" ss:StyleID="s20"><Data ss:Type="String">FROM [ProjectWebApp_COMPASS].[draft].[MSP_PROJECTS] p (nolock)&#13;&#10;from [ProjectWebApp_COMPASS].[draft].[MSP_PROJ_CUSTOM_FIELD_VALUES] (nolock) pcfv&#13;&#10;from [ProjectWebApp_COMPASS].[draft].[MSP_PROJ_CUSTOM_FIELD_VALUES] (nolock) pcfv&#13;&#10;from [ProjectWebApp_COMPASS].[draft].[MSP_PROJ_CUSTOM_FIELD_VALUES] (nolock) pcfv&#13;&#10;from [ProjectWebApp_COMPASS].[draft].[MSP_PROJ_CUSTOM_FIELD_VALUES] (nolock) pcfv&#13;&#10;from [ProjectWebApp_COMPASS].[draft].[MSP_PROJ_CUSTOM_FIELD_VALUES] (nolock) pcfv&#13;&#10;from [ProjectWebApp_COMPASS].[draft].[MSP_PROJ_CUSTOM_FIELD_VALUES] (nolock) pcfv&#13;&#10;from [ProjectWebApp_COMPASS].[draft].[MSP_PROJ_CUSTOM_FIELD_VALUES] (nolock) pcfv&#13;&#10;select pcfv.PROJ_UID, pcfv.TEXT_VALUE from [ProjectWebApp_COMPASS].[draft].[MSP_PROJ_CUSTOM_FIELD_VALUES] (nolock) pcfv&#13;&#10;from [ProjectWebApp_COMPASS].[draft].[MSP_PROJ_CUSTOM_FIELD_VALUES] (nolock) pcfv&#13;&#10;from [ProjectWebApp_COMPASS].[draft].[MSP_PROJ_CUSTOM_FIELD_VALUES] (nolock) pcfv&#13;&#10;FROM [ProjectWebApp_COMPASS].[draft].[MSP_TASKS] t (nolock)&#13;&#10;from [ProjectWebApp_COMPASS].[draft].[MSP_TASK_CUSTOM_FIELD_VALUES] (nolock) pcfv&#13;&#10;from [ProjectWebApp_COMPASS].[draft].[MSP_TASK_CUSTOM_FIELD_VALUES] (nolock) pcfv&#13;&#10;from [ProjectWebApp_COMPASS].[draft].[MSP_TASK_CUSTOM_FIELD_VALUES] (nolock) pcfv&#13;&#10;from [ProjectWebApp_COMPASS].[draft].[MSP_TASK_CUSTOM_FIELD_VALUES] (nolock) pcfv&#13;&#10;FROM [ProjectWebApp_COMPASS].[draft].[MSP_RESOURCES_PUBLISHED_VIEW] (nolock)&#13;&#10;FROM [ProjectWebApp_COMPASS].[draft].[MSP_ASSIGNMENTS] (nolock)&#13;&#10;FROM [ProjectWebApp_COMPASS].[draft].[MSP_WORKFLOW_PHASES_PUBLISHED_VIEW];&#13;&#10;FROM [ProjectWebApp_COMPASS].[draft].[MSP_WORKFLOW_STAGES_PUBLISHED_VIEW];&#13;&#10;FROM [ProjectWebApp_COMPASS].[draft].[MSP_WORKFLOW_STATUS_PUBLISHED_VIEW];&#13;&#10;</Data><NamedCell
+    <Cell ss:Index="9" ss:StyleID="s75"><Data ss:Type="String">FROM [ProjectWebApp_COMPASS].[draft].[MSP_PROJECTS] p (nolock)&#13;&#10;from [ProjectWebApp_COMPASS].[draft].[MSP_PROJ_CUSTOM_FIELD_VALUES] (nolock) pcfv&#13;&#10;from [ProjectWebApp_COMPASS].[draft].[MSP_PROJ_CUSTOM_FIELD_VALUES] (nolock) pcfv&#13;&#10;from [ProjectWebApp_COMPASS].[draft].[MSP_PROJ_CUSTOM_FIELD_VALUES] (nolock) pcfv&#13;&#10;from [ProjectWebApp_COMPASS].[draft].[MSP_PROJ_CUSTOM_FIELD_VALUES] (nolock) pcfv&#13;&#10;from [ProjectWebApp_COMPASS].[draft].[MSP_PROJ_CUSTOM_FIELD_VALUES] (nolock) pcfv&#13;&#10;from [ProjectWebApp_COMPASS].[draft].[MSP_PROJ_CUSTOM_FIELD_VALUES] (nolock) pcfv&#13;&#10;from [ProjectWebApp_COMPASS].[draft].[MSP_PROJ_CUSTOM_FIELD_VALUES] (nolock) pcfv&#13;&#10;select pcfv.PROJ_UID, pcfv.TEXT_VALUE from [ProjectWebApp_COMPASS].[draft].[MSP_PROJ_CUSTOM_FIELD_VALUES] (nolock) pcfv&#13;&#10;from [ProjectWebApp_COMPASS].[draft].[MSP_PROJ_CUSTOM_FIELD_VALUES] (nolock) pcfv&#13;&#10;from [ProjectWebApp_COMPASS].[draft].[MSP_PROJ_CUSTOM_FIELD_VALUES] (nolock) pcfv&#13;&#10;FROM [ProjectWebApp_COMPASS].[draft].[MSP_TASKS] t (nolock)&#13;&#10;from [ProjectWebApp_COMPASS].[draft].[MSP_TASK_CUSTOM_FIELD_VALUES] (nolock) pcfv&#13;&#10;from [ProjectWebApp_COMPASS].[draft].[MSP_TASK_CUSTOM_FIELD_VALUES] (nolock) pcfv&#13;&#10;from [ProjectWebApp_COMPASS].[draft].[MSP_TASK_CUSTOM_FIELD_VALUES] (nolock) pcfv&#13;&#10;from [ProjectWebApp_COMPASS].[draft].[MSP_TASK_CUSTOM_FIELD_VALUES] (nolock) pcfv&#13;&#10;FROM [ProjectWebApp_COMPASS].[draft].[MSP_RESOURCES_PUBLISHED_VIEW] (nolock)&#13;&#10;FROM [ProjectWebApp_COMPASS].[draft].[MSP_ASSIGNMENTS] (nolock)&#13;&#10;FROM [ProjectWebApp_COMPASS].[draft].[MSP_WORKFLOW_PHASES_PUBLISHED_VIEW];&#13;&#10;FROM [ProjectWebApp_COMPASS].[draft].[MSP_WORKFLOW_STAGES_PUBLISHED_VIEW];&#13;&#10;FROM [ProjectWebApp_COMPASS].[draft].[MSP_WORKFLOW_STATUS_PUBLISHED_VIEW];&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:Index="11" ss:StyleID="s20"><Data ss:Type="String">let vLoadStartTime = Now(1);&#13;&#10;let vSourceFilePath = '\\TARQLKFS01P\QlikViewData\SourceDocuments\01_Extraction\Data_MSP_Direct_Draft_DB';&#13;&#10;let vSourceFilePathDev = '\\AWSQLKFS01D\QlikViewData\SourceDocuments\01_Extraction\Data_MSP_Direct_Draft_DB';&#13;&#10;let vSourceFilePathTest = '\\AWSQLKFS01T\QlikViewData\SourceDocuments\01_Extraction\Data_MSP_Direct_Draft_DB';&#13;&#10;let vLoadEndTime = Now(1);&#13;&#10;</Data><NamedCell
+    <Cell ss:Index="11" ss:StyleID="s75"><Data ss:Type="String">let vLoadStartTime = Now(1);&#13;&#10;let vSourceFilePath = '\\TARQLKFS01P\QlikViewData\SourceDocuments\01_Extraction\Data_MSP_Direct_Draft_DB';&#13;&#10;let vSourceFilePathDev = '\\AWSQLKFS01D\QlikViewData\SourceDocuments\01_Extraction\Data_MSP_Direct_Draft_DB';&#13;&#10;let vSourceFilePathTest = '\\AWSQLKFS01T\QlikViewData\SourceDocuments\01_Extraction\Data_MSP_Direct_Draft_DB';&#13;&#10;let vLoadEndTime = Now(1);&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s20"><Data ss:Type="String">[$(vSourceFilePath)\MSP_PROJECTS.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSP_PROJECTS.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSP_PROJECTS.qvd];&#13;&#10;[$(vSourceFilePath)\MSP_TASKS.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSP_TASKS.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSP_TASKS.qvd];&#13;&#10;[$(vSourceFilePath)\MSP_RESOURCES_PUBLISHED_VIEW.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSP_RESOURCES_PUBLISHED_VIEW.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSP_RESOURCES_PUBLISHED_VIEW.qvd];&#13;&#10;[$(vSourceFilePath)\MSP_ASSIGNMENTS.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSP_ASSIGNMENTS.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSP_ASSIGNMENTS.qvd];&#13;&#10;[$(vSourceFilePath)\MSP_WORKFLOW_PHASES_PUBLISHED_VIEW.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSP_WORKFLOW_PHASES_PUBLISHED_VIEW.qvd];&#13;&#10;[$(vSourceFilePath)\MSP_WORKFLOW_PHASES_PUBLISHED_VIEW.qvd];&#13;&#10;[$(vSourceFilePath)\MSP_WORKFLOW_STAGES_PUBLISHED_VIEW.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSP_WORKFLOW_STAGES_PUBLISHED_VIEW.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSP_WORKFLOW_STAGES_PUBLISHED_VIEW.qvd];&#13;&#10;[$(vSourceFilePath)\MSP_WORKFLOW_STATUS_PUBLISHED_VIEW.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSP_WORKFLOW_STATUS_PUBLISHED_VIEW.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSP_WORKFLOW_STATUS_PUBLISHED_VIEW.qvd];&#13;&#10;</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-   </Row>
-   <Row ss:Height="75">
-    <Cell ss:StyleID="s22"><Data ss:Type="Number">13</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">01_Extraction</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Extraction_PlanView_Account_Levels</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">let vLoadStartTime = Now(1);&#13;&#10;let vSourceFilePath = '$(vInclude)\QlikViewData\SourceDocuments\01_Extraction\Data_SHARP_Finance';&#13;&#10;let vSourceFilePathPlanview = '\\tarisilonsmb02.tarisilon02.regeneron.regn.com\tarryfs01v\Data\Qlik_Planview_Data';&#13;&#10;let vLoadEndTime = Now(1);&#13;&#10;</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">[$(vSourceFilePath)\Planview_GL_Mapping.qvd];&#13;&#10;[$(vSourceFilePath)\WorkIDtoFIDMappings.qvd];&#13;&#10;[$(vSourceFilePath)\WorkID2OldFID.qvd];&#13;&#10;</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">[$(vSourceFilePathPlanview)\Planview_GL_Mapping.xlsx]&#13;&#10;[$(vSourceFilePathPlanview)\WorkIDtoFIDMappings.xlsx]&#13;&#10;[$(vSourceFilePathPlanview)\WorkID2OldFID.xlsx]&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s75"><Data ss:Type="String">[$(vSourceFilePath)\MSP_PROJECTS.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSP_PROJECTS.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSP_PROJECTS.qvd];&#13;&#10;[$(vSourceFilePath)\MSP_TASKS.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSP_TASKS.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSP_TASKS.qvd];&#13;&#10;[$(vSourceFilePath)\MSP_RESOURCES_PUBLISHED_VIEW.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSP_RESOURCES_PUBLISHED_VIEW.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSP_RESOURCES_PUBLISHED_VIEW.qvd];&#13;&#10;[$(vSourceFilePath)\MSP_ASSIGNMENTS.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSP_ASSIGNMENTS.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSP_ASSIGNMENTS.qvd];&#13;&#10;[$(vSourceFilePath)\MSP_WORKFLOW_PHASES_PUBLISHED_VIEW.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSP_WORKFLOW_PHASES_PUBLISHED_VIEW.qvd];&#13;&#10;[$(vSourceFilePath)\MSP_WORKFLOW_PHASES_PUBLISHED_VIEW.qvd];&#13;&#10;[$(vSourceFilePath)\MSP_WORKFLOW_STAGES_PUBLISHED_VIEW.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSP_WORKFLOW_STAGES_PUBLISHED_VIEW.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSP_WORKFLOW_STAGES_PUBLISHED_VIEW.qvd];&#13;&#10;[$(vSourceFilePath)\MSP_WORKFLOW_STATUS_PUBLISHED_VIEW.qvd];&#13;&#10;[$(vSourceFilePathDev)\MSP_WORKFLOW_STATUS_PUBLISHED_VIEW.qvd];&#13;&#10;[$(vSourceFilePathTest)\MSP_WORKFLOW_STATUS_PUBLISHED_VIEW.qvd];&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
-   <Row ss:Height="60">
-    <Cell ss:StyleID="s22"><Data ss:Type="Number">14</Data><NamedCell
+   <Row ss:AutoFitHeight="0" ss:Height="75">
+    <Cell ss:StyleID="s73"><Data ss:Type="Number">13</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">01_Extraction</Data><NamedCell
+    <Cell ss:StyleID="s73"><Data ss:Type="String">01_Extraction</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">extraction_pub_2013</Data><NamedCell
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Extraction_PlanView_Account_Levels</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">OLEDB&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">let vLoadStartTime = Now(1);&#13;&#10;let vSourceFilePath = '$(vInclude)\QlikViewData\SourceDocuments\01_Extraction\Data_SHARP_Finance';&#13;&#10;let vSourceFilePathPlanview = '\\tarisilonsmb02.tarisilon02.regeneron.regn.com\tarryfs01v\Data\Qlik_Planview_Data';&#13;&#10;let vLoadEndTime = Now(1);&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">[Provider=MSDASQL.1;Persist Security Info=True;User ID=CDRA_RO_USER;Data Source=ERPTPRD;Extended Properties=&quot;DSN=ERPTPRD;UID=CDRA_RO_USER;DBQ=TNS_ADMIN;DBA=W;APA=T;EXC=F;FEN=T;QTO=T;FRC=10;FDL=10;LOB=T;RST=T;BTD=F;BNF=F;BAM=IfAllSuccessful;NUM=NLS;DPM=F;MTS=T;MDI=F;CSR=F;FWC=F;FBS=64000;TLO=O;MLD=0;ODA=F;&quot;] (XPassword is GDZHBUdKGCJUVQdGFKPB);&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s75"><Data ss:Type="String">[$(vSourceFilePath)\Planview_GL_Mapping.qvd];&#13;&#10;[$(vSourceFilePath)\WorkIDtoFIDMappings.qvd];&#13;&#10;[$(vSourceFilePath)\WorkID2OldFID.qvd];&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">FROM &quot;EDW_ODS&quot;.&quot;V_SP_CDRA_SHARED_DOCUMENTS&quot;;&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">[$(vSourceFilePathPlanview)\Planview_GL_Mapping.xlsx]&#13;&#10;[$(vSourceFilePathPlanview)\WorkIDtoFIDMappings.xlsx]&#13;&#10;[$(vSourceFilePathPlanview)\WorkID2OldFID.xlsx]&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">[\\TARQLKFS01P\QlikviewData\SourceDocuments\01_Extraction\data_publications\V_SP_CDRA_SHARED_DOCUMENTS.qvd];&#13;&#10;</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="90">
-    <Cell ss:StyleID="s22"><Data ss:Type="Number">15</Data><NamedCell
+   <Row ss:AutoFitHeight="0" ss:Height="60">
+    <Cell ss:StyleID="s73"><Data ss:Type="Number">14</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">01_Extraction</Data><NamedCell
+    <Cell ss:StyleID="s73"><Data ss:Type="String">01_Extraction</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Extraction_Quality_Access_DB</Data><NamedCell
+    <Cell ss:StyleID="s73"><Data ss:Type="String">extraction_pub_2013</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">ODBC&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">OLEDB&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">[Quality;DBQ=\\tarevs01\TARDATA\data\CDRA\PIC\CCT\QAA GCP Audit Response and SSN Tracker\cct db.accdb] ;&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s75"><Data ss:Type="String">[Provider=MSDASQL.1;Persist Security Info=True;User ID=CDRA_RO_USER;Data Source=ERPTPRD;Extended Properties=&quot;DSN=ERPTPRD;UID=CDRA_RO_USER;DBQ=TNS_ADMIN;DBA=W;APA=T;EXC=F;FEN=T;QTO=T;FRC=10;FDL=10;LOB=T;RST=T;BTD=F;BNF=F;BAM=IfAllSuccessful;NUM=NLS;DPM=F;MTS=T;MDI=F;CSR=F;FWC=F;FBS=64000;TLO=O;MLD=0;ODA=F;&quot;] (XPassword is GDZHBUdKGCJUVQdGFKPB);&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">[Quality;DBQ=\\tarevs01\TARDATA\data\CDRA\PIC\CCT\QAA GCP Audit Response and SSN Tracker\cct db.accdb] ;&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">FROM &quot;EDW_ODS&quot;.&quot;V_SP_CDRA_SHARED_DOCUMENTS&quot;;&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">FROM `Root Cause`;&#13;&#10;FROM SSN;&#13;&#10;FROM `_ALERT MAIN FORM`;&#13;&#10;FROM `SSNs_Areas of Concern`;&#13;&#10;FROM `Main Audit Information`;&#13;&#10;FROM OBSERVATION;&#13;&#10;FROM Actions;&#13;&#10;FROM `Usability_NEW`;&#13;&#10;FROM `_SSN_Parties of Concern`;&#13;&#10;FROM `_SSN_Studies Impacted`;&#13;&#10;FROM `_SSN_Parties of concern`;&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">[\\TARQLKFS01P\QlikviewData\SourceDocuments\01_Extraction\data_publications\V_SP_CDRA_SHARED_DOCUMENTS.qvd];&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">let vLoadStartTime = now();&#13;&#10;let vLoadEndTime = now();&#13;&#10;</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">[$(vInclude)\qlikviewdata\sourcedocuments\01_extraction\Data_Quality_Access\ROOT_CAUSE.qvd];&#13;&#10;[$(vInclude)\qlikviewdata\sourcedocuments\01_extraction\Data_Quality_Access\SSN.qvd];&#13;&#10;[$(vInclude)\qlikviewdata\sourcedocuments\01_extraction\Data_Quality_Access\ALERT_MAIN_FORM.qvd];&#13;&#10;[$(vInclude)\qlikviewdata\sourcedocuments\01_extraction\Data_Quality_Access\SSNs_Areas_of_Concern.qvd];&#13;&#10;[$(vInclude)\qlikviewdata\sourcedocuments\01_extraction\Data_Quality_Access\Main_Audit_Information.qvd];&#13;&#10;[$(vInclude)\qlikviewdata\sourcedocuments\01_extraction\Data_Quality_Access\OBSERVATION.qvd];&#13;&#10;[$(vInclude)\qlikviewdata\sourcedocuments\01_extraction\Data_Quality_Access\Actions.qvd];&#13;&#10;[$(vInclude)\qlikviewdata\sourcedocuments\01_extraction\Data_Quality_Access\USABILITY.qvd];&#13;&#10;[$(vInclude)\qlikviewdata\sourcedocuments\01_extraction\Data_Quality_Access\SSN_Parties.qvd];&#13;&#10;[$(vInclude)\qlikviewdata\sourcedocuments\01_extraction\Data_Quality_Access\_SSN_Studies_Impacted.qvd];&#13;&#10;[$(vInclude)\qlikviewdata\sourcedocuments\01_extraction\Data_Quality_Access\_SSN_Parties_of_concern.qvd];&#13;&#10;</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="90">
-    <Cell ss:StyleID="s22"><Data ss:Type="Number">16</Data><NamedCell
+    <Cell ss:StyleID="s73"><Data ss:Type="Number">15</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">01_Extraction</Data><NamedCell
+    <Cell ss:StyleID="s73"><Data ss:Type="String">01_Extraction</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Extraction_Roster_Commercial_Hierarchy_Security_Table_Generation</Data><NamedCell
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Extraction_Quality_Access_DB</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">let vSourceFilePath = '\\tarevs01\TARDATA\Data\Commercial\Field Expense Trackers';&#13;&#10;let vSourceFilePathCommercial = '$(vInclude)\QlikViewData\SourceDocuments\01_Extraction\Data_Commercial_FF_Expenses';&#13;&#10;let vSourceFilePathSHARP = '$(vInclude)\QlikViewData\SourceDocuments\01_Extraction\Data_SHARP_Finance';&#13;&#10;let vLoadStartTime=now();&#13;&#10;let vLoadEndTime = Now(1);&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s75"><Data ss:Type="String">ODBC&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s24"><Data ss:Type="String">[$(vSourceFilePathCommercial)\DIM_COMMERCIAL_HIERARCHY.qvd](qvd);&#13;&#10;[$(vSourceFilePathCommercial)\DIM_EMPLOYEE_ROSTER_DATA.qvd](qvd);&#13;&#10;[$(vSourceFilePathCommercial)\DIM_EMPLOYEE_ROSTER_DATA_HISTORICAL.qvd](qvd);&#13;&#10;</Data><Comment
+    <Cell ss:StyleID="s75"><Data ss:Type="String">[Quality;DBQ=\\tarevs01\TARDATA\data\CDRA\PIC\CCT\QAA GCP Audit Response and SSN Tracker\cct db.accdb] ;&#13;&#10;</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">[Quality;DBQ=\\tarevs01\TARDATA\data\CDRA\PIC\CCT\QAA GCP Audit Response and SSN Tracker\cct db.accdb] ;&#13;&#10;</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">FROM `Root Cause`;&#13;&#10;FROM SSN;&#13;&#10;FROM `_ALERT MAIN FORM`;&#13;&#10;FROM `SSNs_Areas of Concern`;&#13;&#10;FROM `Main Audit Information`;&#13;&#10;FROM OBSERVATION;&#13;&#10;FROM Actions;&#13;&#10;FROM `Usability_NEW`;&#13;&#10;FROM `_SSN_Parties of Concern`;&#13;&#10;FROM `_SSN_Studies Impacted`;&#13;&#10;FROM `_SSN_Parties of concern`;&#13;&#10;</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">let vLoadStartTime = now();&#13;&#10;let vLoadEndTime = now();&#13;&#10;</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">[$(vInclude)\qlikviewdata\sourcedocuments\01_extraction\Data_Quality_Access\ROOT_CAUSE.qvd];&#13;&#10;[$(vInclude)\qlikviewdata\sourcedocuments\01_extraction\Data_Quality_Access\SSN.qvd];&#13;&#10;[$(vInclude)\qlikviewdata\sourcedocuments\01_extraction\Data_Quality_Access\ALERT_MAIN_FORM.qvd];&#13;&#10;[$(vInclude)\qlikviewdata\sourcedocuments\01_extraction\Data_Quality_Access\SSNs_Areas_of_Concern.qvd];&#13;&#10;[$(vInclude)\qlikviewdata\sourcedocuments\01_extraction\Data_Quality_Access\Main_Audit_Information.qvd];&#13;&#10;[$(vInclude)\qlikviewdata\sourcedocuments\01_extraction\Data_Quality_Access\OBSERVATION.qvd];&#13;&#10;[$(vInclude)\qlikviewdata\sourcedocuments\01_extraction\Data_Quality_Access\Actions.qvd];&#13;&#10;[$(vInclude)\qlikviewdata\sourcedocuments\01_extraction\Data_Quality_Access\USABILITY.qvd];&#13;&#10;[$(vInclude)\qlikviewdata\sourcedocuments\01_extraction\Data_Quality_Access\SSN_Parties.qvd];&#13;&#10;[$(vInclude)\qlikviewdata\sourcedocuments\01_extraction\Data_Quality_Access\_SSN_Studies_Impacted.qvd];&#13;&#10;[$(vInclude)\qlikviewdata\sourcedocuments\01_extraction\Data_Quality_Access\_SSN_Parties_of_concern.qvd];&#13;&#10;</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="90">
+    <Cell ss:StyleID="s73"><Data ss:Type="Number">16</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">01_Extraction</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Extraction_Roster_Commercial_Hierarchy_Security_Table_Generation</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">let vSourceFilePath = '\\tarevs01\TARDATA\Data\Commercial\Field Expense Trackers';&#13;&#10;let vSourceFilePathCommercial = '$(vInclude)\QlikViewData\SourceDocuments\01_Extraction\Data_Commercial_FF_Expenses';&#13;&#10;let vSourceFilePathSHARP = '$(vInclude)\QlikViewData\SourceDocuments\01_Extraction\Data_SHARP_Finance';&#13;&#10;let vLoadStartTime=now();&#13;&#10;let vLoadEndTime = Now(1);&#13;&#10;</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">[$(vSourceFilePathCommercial)\DIM_COMMERCIAL_HIERARCHY.qvd](qvd);&#13;&#10;[$(vSourceFilePathCommercial)\DIM_EMPLOYEE_ROSTER_DATA.qvd](qvd);&#13;&#10;[$(vSourceFilePathCommercial)\DIM_EMPLOYEE_ROSTER_DATA_HISTORICAL.qvd](qvd);&#13;&#10;</Data><Comment
       ss:Author="Author"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
-         html:Face="Tahoma" x:CharSet="1" html:Size="9" html:Color="#000000">Hassan Iqbal:</Font></B><Font
-        html:Face="Tahoma" x:CharSet="1" html:Size="9" html:Color="#000000">&#10;missed V_COMMERCIAL_SECURITY_ROLES.qvd&#10;&#10;and &#10;&#10;V_COMMERCIAL_CONCUR_SECURITY.qvd</Font></ss:Data></Comment><NamedCell
+         html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">Hassan Iqbal:</Font></B><Font
+        html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">&#10;missed V_COMMERCIAL_SECURITY_ROLES.qvd&#10;&#10;and &#10;&#10;V_COMMERCIAL_CONCUR_SECURITY.qvd</Font></ss:Data></Comment><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s24"><Data ss:Type="String">[$(vSourceFilePathSHARP)\DIM_COST_CENTER_HIER.qvd]&#13;&#10;[$(vSourceFilePathSHARP)\DIM_COST_CENTER_HIER.qvd]&#13;&#10;[$(vSourceFilePathSHARP)\DIM_EMPLOYEE.qvd]&#13;&#10;[$(vSourceFilePathSHARP)\DIM_EMPLOYEE.qvd]&#13;&#10;STORE V_COMMERCIAL_SECURITY_ROLES into [$(vSourceFilePathCommercial)\V_COMMERCIAL_SECURITY_ROLES.qvd](qvd);&#13;&#10;STORE SA into [$(vSourceFilePathCommercial)\V_COMMERCIAL_CONCUR_SECURITY.qvd](qvd);&#13;&#10;</Data><Comment
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">[$(vSourceFilePathSHARP)\DIM_COST_CENTER_HIER.qvd]&#13;&#10;[$(vSourceFilePathSHARP)\DIM_COST_CENTER_HIER.qvd]&#13;&#10;[$(vSourceFilePathSHARP)\DIM_EMPLOYEE.qvd]&#13;&#10;[$(vSourceFilePathSHARP)\DIM_EMPLOYEE.qvd]&#13;&#10;STORE V_COMMERCIAL_SECURITY_ROLES into [$(vSourceFilePathCommercial)\V_COMMERCIAL_SECURITY_ROLES.qvd](qvd);&#13;&#10;STORE SA into [$(vSourceFilePathCommercial)\V_COMMERCIAL_CONCUR_SECURITY.qvd](qvd);&#13;&#10;</Data><Comment
       ss:Author="Author"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
-         html:Face="Tahoma" x:CharSet="1" html:Size="9" html:Color="#000000">Hassan Iqbal:</Font></B><Font
-        html:Face="Tahoma" x:CharSet="1" html:Size="9" html:Color="#000000">&#10;contains cases of store, which should be in qvd output&#10;&#10;&#10;missed cases for qvd input:&#10;1) all instances of FIELD_ROSTER_HISTORY_DATA.qvd&#10; &#10;</Font></ss:Data></Comment><NamedCell
+         html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">Hassan Iqbal:</Font></B><Font
+        html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">&#10;contains cases of store, which should be in qvd output&#10;&#10;&#10;missed cases for qvd input:&#10;1) all instances of FIELD_ROSTER_HISTORY_DATA.qvd&#10; &#10;</Font></ss:Data></Comment><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s24"><Data ss:Type="String">[$(vSourceFilePath)\Concur_Cost_Center_Product_Mapping.xlsx]&#13;&#10;[$(vSourceFilePath)\Concur_Cost_Center_Product_Mapping.xlsx]&#13;&#10;[$(vSourceFilePath)\Concur_Roster_Additions.xlsx]&#13;&#10;</Data><Comment
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">[$(vSourceFilePath)\Concur_Cost_Center_Product_Mapping.xlsx]&#13;&#10;[$(vSourceFilePath)\Concur_Cost_Center_Product_Mapping.xlsx]&#13;&#10;[$(vSourceFilePath)\Concur_Roster_Additions.xlsx]&#13;&#10;</Data><Comment
       ss:Author="Author"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
-         html:Face="Tahoma" x:CharSet="1" html:Size="9" html:Color="#000000">Author:</Font></B><Font
-        html:Face="Tahoma" x:CharSet="1" html:Size="9" html:Color="#000000">&#10;missed $(vSourceFilePath)\Concur_Cost_Center_Product_Mapping.xlsx.  It was used 3 times&#10;</Font></ss:Data></Comment><NamedCell
+         html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">Author:</Font></B><Font
+        html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">&#10;missed $(vSourceFilePath)\Concur_Cost_Center_Product_Mapping.xlsx.  It was used 3 times&#10;</Font></ss:Data></Comment><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="91.5">
-    <Cell ss:StyleID="s22"><Data ss:Type="Number">17</Data><NamedCell
+    <Cell ss:StyleID="s73"><Data ss:Type="Number">17</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">01_Extraction</Data><NamedCell
+    <Cell ss:StyleID="s73"><Data ss:Type="String">01_Extraction</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Extraction_Roster_Data</Data><NamedCell
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Extraction_Roster_Data</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">OLEDB&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">OLEDB&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">[Provider=MSDASQL.1;Persist Security Info=True;User ID=FIN_RO_USER;Data Source=ERPTPRD;Extended Properties=&quot;DSN=ERPTPRD;UID=FIN_RO_USER;DBQ=TNS_ADMIN;DBA=W;APA=T;EXC=F;FEN=T;QTO=T;FRC=10;FDL=10;LOB=T;RST=T;BTD=F;BNF=F;BAM=IfAllSuccessful;NUM=NLS;DPM=F;MTS=T;MDI=F;CSR=F;FWC=F;FBS=64000;TLO=O;MLD=0;ODA=F;&quot;] (XPassword is LPPJBaNIRRNIDaUOWLLA);&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s75"><Data ss:Type="String">[Provider=MSDASQL.1;Persist Security Info=True;User ID=FIN_RO_USER;Data Source=ERPTPRD;Extended Properties=&quot;DSN=ERPTPRD;UID=FIN_RO_USER;DBQ=TNS_ADMIN;DBA=W;APA=T;EXC=F;FEN=T;QTO=T;FRC=10;FDL=10;LOB=T;RST=T;BTD=F;BNF=F;BAM=IfAllSuccessful;NUM=NLS;DPM=F;MTS=T;MDI=F;CSR=F;FWC=F;FBS=64000;TLO=O;MLD=0;ODA=F;&quot;] (XPassword is LPPJBaNIRRNIDaUOWLLA);&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">FROM &quot;EDW_ODS&quot;.&quot;FIELD_ROSTER_HISTORY_DATA&quot;;&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">FROM &quot;EDW_ODS&quot;.&quot;FIELD_ROSTER_HISTORY_DATA&quot;;&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">let vOutputFilePath = '$(vInclude)\QlikViewData\SourceDocuments\01_Extraction\Data_Commercial_FF_Expenses';&#13;&#10;let vLoadStartTime= Now(1);&#13;&#10;let vLoadEndTime= Now(1);&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">let vOutputFilePath = '$(vInclude)\QlikViewData\SourceDocuments\01_Extraction\Data_Commercial_FF_Expenses';&#13;&#10;let vLoadStartTime= Now(1);&#13;&#10;let vLoadEndTime= Now(1);&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">[$(vOutputFilePath)\FIELD_ROSTER_HISTORY_DATA.qvd](qvd);&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s75"><Data ss:Type="String">[$(vOutputFilePath)\FIELD_ROSTER_HISTORY_DATA.qvd](qvd);&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="112.5">
-    <Cell ss:StyleID="s22"><Data ss:Type="Number">18</Data><NamedCell
+    <Cell ss:StyleID="s73"><Data ss:Type="Number">18</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">01_Extraction</Data><NamedCell
+    <Cell ss:StyleID="s73"><Data ss:Type="String">01_Extraction</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">extraction_Sharp</Data><NamedCell
+    <Cell ss:StyleID="s73"><Data ss:Type="String">extraction_Sharp</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">OLEDB&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">OLEDB&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">[Provider=MSDASQL.1;Persist Security Info=True;User ID=CDRA_RO_USER;Data Source=ERPTPRD;Extended Properties=&quot;DSN=ERPTPRD;UID=CDRA_RO_USER;DBQ=TNS_ADMIN;DBA=W;APA=T;EXC=F;FEN=T;QTO=T;FRC=10;FDL=10;LOB=T;RST=T;BTD=F;BNF=F;BAM=IfAllSuccessful;NUM=NLS;DPM=F;MTS=T;MDI=F;CSR=F;FWC=F;FBS=64000;TLO=O;MLD=0;ODA=F;&quot;] (XPassword is GDZHBUdKGCJUVQdGFKPB);&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s75"><Data ss:Type="String">[Provider=MSDASQL.1;Persist Security Info=True;User ID=CDRA_RO_USER;Data Source=ERPTPRD;Extended Properties=&quot;DSN=ERPTPRD;UID=CDRA_RO_USER;DBQ=TNS_ADMIN;DBA=W;APA=T;EXC=F;FEN=T;QTO=T;FRC=10;FDL=10;LOB=T;RST=T;BTD=F;BNF=F;BAM=IfAllSuccessful;NUM=NLS;DPM=F;MTS=T;MDI=F;CSR=F;FWC=F;FBS=64000;TLO=O;MLD=0;ODA=F;&quot;] (XPassword is GDZHBUdKGCJUVQdGFKPB);&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">FROM &quot;EDW_CDRA_USER&quot;.&quot;V_RPT_REGN_HYP_DRILL_DOWN_PROD&quot;;&#13;&#10;FROM &quot;EDW_CDRA_USER&quot;.&quot;V_RPT_COST_CENTER&quot;;&#13;&#10;FROM &quot;EDW_CDRA_USER&quot;.&quot;V_RPT_HYP_EXPENSES&quot;;&#13;&#10;FROM &quot;EDW_CDRA_USER&quot;.&quot;V_RPT_HYP_FTE_NEW&quot;;&#13;&#10;FROM &quot;EDW_CDRA_USER&quot;.&quot;V_RPT_OTL_DETAILS&quot;;&#13;&#10;FROM &quot;EDW_CDRA_USER&quot;.&quot;V_RPT_HYP_BLUE_SHEET&quot;;&#13;&#10;FROM &quot;EDW_CDRA_USER&quot;.&quot;V_RPT_PO_DETAILS_PROD&quot;;&#13;&#10;FROM &quot;EDW_CDRA_USER&quot;.&quot;V_RPT_REGN_JE_DRILL_DOWN&quot;;&#13;&#10;FROM &quot;EDW_CDRA_USER&quot;.&quot;V_RPT_REQ_DETAILS_PROD&quot;;&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">FROM &quot;EDW_CDRA_USER&quot;.&quot;V_RPT_REGN_HYP_DRILL_DOWN_PROD&quot;;&#13;&#10;FROM &quot;EDW_CDRA_USER&quot;.&quot;V_RPT_COST_CENTER&quot;;&#13;&#10;FROM &quot;EDW_CDRA_USER&quot;.&quot;V_RPT_HYP_EXPENSES&quot;;&#13;&#10;FROM &quot;EDW_CDRA_USER&quot;.&quot;V_RPT_HYP_FTE_NEW&quot;;&#13;&#10;FROM &quot;EDW_CDRA_USER&quot;.&quot;V_RPT_OTL_DETAILS&quot;;&#13;&#10;FROM &quot;EDW_CDRA_USER&quot;.&quot;V_RPT_HYP_BLUE_SHEET&quot;;&#13;&#10;FROM &quot;EDW_CDRA_USER&quot;.&quot;V_RPT_PO_DETAILS_PROD&quot;;&#13;&#10;FROM &quot;EDW_CDRA_USER&quot;.&quot;V_RPT_REGN_JE_DRILL_DOWN&quot;;&#13;&#10;FROM &quot;EDW_CDRA_USER&quot;.&quot;V_RPT_REQ_DETAILS_PROD&quot;;&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">.\data\V_RPT_REGN_HYP_DRILL_DOWN_PROD.qvd;&#13;&#10;.\data_clinical_finance\V_RPT_REGN_HYP_DRILL_DOWN_PROD.qvd;&#13;&#10;.\data\V_RPT_COST_CENTERS.qvd;&#13;&#10;.\data_clinical_finance\V_RPT_COST_CENTERS.qvd;&#13;&#10;.\data\V_RPT_HYP_EXPENSES.qvd;&#13;&#10;.\data_clinical_finance\V_RPT_HYP_EXPENSES.qvd;&#13;&#10;.\data\V_RPT_HYP_FTE_NEW.qvd;&#13;&#10;.\data_clinical_finance\V_RPT_HYP_FTE_NEW.qvd;&#13;&#10;.\data\V_RPT_OTL_DETAILS.qvd;&#13;&#10;.\data_clinical_finance\V_RPT_OTL_DETAILS.qvd;&#13;&#10;.\data\V_RPT_HYP_BLUE_SHEET.qvd;&#13;&#10;.\data_clinical_finance\V_RPT_HYP_BLUE_SHEET.qvd;&#13;&#10;.\data\V_RPT_PO_DETAILS_PROD.qvd;&#13;&#10;.\data_clinical_finance\V_RPT_PO_DETAILS_PROD.qvd;&#13;&#10;.\data\V_RPT_REGN_JE_DRILL_DOWN.qvd;&#13;&#10;.\data_clinical_finance\V_RPT_REGN_JE_DRILL_DOWN.qvd;&#13;&#10;.\data_sharp\V_RPT_REQ_DETAILS_PROD.qvd;&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">.\data\V_RPT_REGN_HYP_DRILL_DOWN_PROD.qvd;&#13;&#10;.\data_clinical_finance\V_RPT_REGN_HYP_DRILL_DOWN_PROD.qvd;&#13;&#10;.\data\V_RPT_COST_CENTERS.qvd;&#13;&#10;.\data_clinical_finance\V_RPT_COST_CENTERS.qvd;&#13;&#10;.\data\V_RPT_HYP_EXPENSES.qvd;&#13;&#10;.\data_clinical_finance\V_RPT_HYP_EXPENSES.qvd;&#13;&#10;.\data\V_RPT_HYP_FTE_NEW.qvd;&#13;&#10;.\data_clinical_finance\V_RPT_HYP_FTE_NEW.qvd;&#13;&#10;.\data\V_RPT_OTL_DETAILS.qvd;&#13;&#10;.\data_clinical_finance\V_RPT_OTL_DETAILS.qvd;&#13;&#10;.\data\V_RPT_HYP_BLUE_SHEET.qvd;&#13;&#10;.\data_clinical_finance\V_RPT_HYP_BLUE_SHEET.qvd;&#13;&#10;.\data\V_RPT_PO_DETAILS_PROD.qvd;&#13;&#10;.\data_clinical_finance\V_RPT_PO_DETAILS_PROD.qvd;&#13;&#10;.\data\V_RPT_REGN_JE_DRILL_DOWN.qvd;&#13;&#10;.\data_clinical_finance\V_RPT_REGN_JE_DRILL_DOWN.qvd;&#13;&#10;.\data_sharp\V_RPT_REQ_DETAILS_PROD.qvd;&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">.\Data_ResMgmt\V_RPT_HYP_FTE_NEW.csv (txt);&#13;&#10;.\Data_ResMgmt\V_RPT_OTL_DETAILS.csv (txt);&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s75"><Data ss:Type="String">.\Data_ResMgmt\V_RPT_HYP_FTE_NEW.csv (txt);&#13;&#10;.\Data_ResMgmt\V_RPT_OTL_DETAILS.csv (txt);&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="118.5">
-    <Cell ss:StyleID="s22"><Data ss:Type="Number">19</Data><NamedCell
+    <Cell ss:StyleID="s73"><Data ss:Type="Number">19</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">01_Extraction</Data><NamedCell
+    <Cell ss:StyleID="s73"><Data ss:Type="String">01_Extraction</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Extraction_SHARP_Financial_Data_Model</Data><NamedCell
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Extraction_SHARP_Financial_Data_Model</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">OLEDB&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">OLEDB&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">[Provider=MSDASQL.1;Persist Security Info=True;User ID=FIN_RO_USER;Data Source=ERPTPRD;Extended Properties=&quot;DSN=ERPTPRD;UID=FIN_RO_USER;DBQ=TNS_ADMIN;DBA=W;APA=T;EXC=F;FEN=T;QTO=T;FRC=10;FDL=10;LOB=T;RST=T;BTD=F;BNF=F;BAM=IfAllSuccessful;NUM=NLS;DPM=F;MTS=T;MDI=F;CSR=F;FWC=F;FBS=64000;TLO=O;MLD=0;ODA=F;&quot;] (XPassword is LPPJBaNIRRNIDaUOWLLA);&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s75"><Data ss:Type="String">[Provider=MSDASQL.1;Persist Security Info=True;User ID=FIN_RO_USER;Data Source=ERPTPRD;Extended Properties=&quot;DSN=ERPTPRD;UID=FIN_RO_USER;DBQ=TNS_ADMIN;DBA=W;APA=T;EXC=F;FEN=T;QTO=T;FRC=10;FDL=10;LOB=T;RST=T;BTD=F;BNF=F;BAM=IfAllSuccessful;NUM=NLS;DPM=F;MTS=T;MDI=F;CSR=F;FWC=F;FBS=64000;TLO=O;MLD=0;ODA=F;&quot;] (XPassword is LPPJBaNIRRNIDaUOWLLA);&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">FROM &quot;EDW_ERPT&quot;.&quot;DIM_ACCOUNT_HIER&quot;;&#13;&#10;FROM &quot;EDW_ERPT&quot;.&quot;DIM_COMPANY_HIER&quot;;&#13;&#10;FROM &quot;EDW_ERPT&quot;.&quot;DIM_COST_CENTER_HIER&quot;;&#13;&#10;FROM &quot;EDW_ERPT&quot;.&quot;DIM_CURRENCY&quot;;&#13;&#10;FROM &quot;EDW_ERPT&quot;.&quot;DIM_EMPLOYEE&quot;;&#13;&#10;FROM &quot;EDW_ERPT&quot;.&quot;DIM_FID_HIER&quot;;&#13;&#10;FROM &quot;EDW_ERPT&quot;.&quot;DIM_INTERCOMPANY&quot;;&#13;&#10;FROM &quot;EDW_ERPT&quot;.&quot;DIM_LEDGER&quot;&#13;&#10;FROM &quot;EDW_ERPT&quot;.&quot;DIM_LOCATION_HIER&quot;;&#13;&#10;FROM &quot;EDW_ERPT&quot;.&quot;DIM_ORGANIZATION&quot;;&#13;&#10;FROM &quot;EDW_ERPT&quot;.&quot;DIM_PROJECT&quot;;&#13;&#10;FROM &quot;EDW_ERPT&quot;.&quot;DIM_TASK&quot;;&#13;&#10;FROM &quot;EDW_ERPT&quot;.&quot;DIM_VENDOR&quot;;&#13;&#10;FROM &quot;EDW_ERPT&quot;.&quot;DIM_VENDOR_SITE&quot;;&#13;&#10;FROM &quot;EDW_ERPT&quot;.&quot;V_FIN_FID_PIVOT&quot;;&#13;&#10;FROM &quot;EDW_ERPT&quot;.&quot;V_FIN_GL_PIVOT&quot;;&#13;&#10;FROM &quot;EDW_ERPT&quot;.&quot;V_FIN_INVOICE&quot;;&#13;&#10;FROM &quot;EDW_ERPT&quot;.&quot;V_FIN_JOURNAL_ENTRY&quot;&#13;&#10;FROM &quot;EDW_ERPT&quot;.&quot;V_FIN_PAYMENT&quot;;&#13;&#10;FROM &quot;EDW_ERPT&quot;.&quot;V_FIN_PROJECT_HOUR_JE&quot;;&#13;&#10;FROM &quot;EDW_ERPT&quot;.&quot;V_FIN_PROJECT_HOUR_WORKED&quot;;&#13;&#10;FROM &quot;EDW_ERPT&quot;.&quot;V_FIN_PURCHASE_ORDER&quot;;&#13;&#10;FROM &quot;EDW_ERPT&quot;.&quot;V_FIN_REQUISITION&quot;;&#13;&#10;FROM &quot;EDW_ERPT&quot;.&quot;V_FIN_SECURITY_EMP_ROLE&quot;;&#13;&#10;FROM &quot;EDW_ERPT&quot;.&quot;V_FIN_SECURITY_MATRIX_ROLE&quot;;&#13;&#10;FROM &quot;EDW_ERPT&quot;.&quot;FACT_FIN_EXCHANGE_RATE&quot;;&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">FROM &quot;EDW_ERPT&quot;.&quot;DIM_ACCOUNT_HIER&quot;;&#13;&#10;FROM &quot;EDW_ERPT&quot;.&quot;DIM_COMPANY_HIER&quot;;&#13;&#10;FROM &quot;EDW_ERPT&quot;.&quot;DIM_COST_CENTER_HIER&quot;;&#13;&#10;FROM &quot;EDW_ERPT&quot;.&quot;DIM_CURRENCY&quot;;&#13;&#10;FROM &quot;EDW_ERPT&quot;.&quot;DIM_EMPLOYEE&quot;;&#13;&#10;FROM &quot;EDW_ERPT&quot;.&quot;DIM_FID_HIER&quot;;&#13;&#10;FROM &quot;EDW_ERPT&quot;.&quot;DIM_INTERCOMPANY&quot;;&#13;&#10;FROM &quot;EDW_ERPT&quot;.&quot;DIM_LEDGER&quot;&#13;&#10;FROM &quot;EDW_ERPT&quot;.&quot;DIM_LOCATION_HIER&quot;;&#13;&#10;FROM &quot;EDW_ERPT&quot;.&quot;DIM_ORGANIZATION&quot;;&#13;&#10;FROM &quot;EDW_ERPT&quot;.&quot;DIM_PROJECT&quot;;&#13;&#10;FROM &quot;EDW_ERPT&quot;.&quot;DIM_TASK&quot;;&#13;&#10;FROM &quot;EDW_ERPT&quot;.&quot;DIM_VENDOR&quot;;&#13;&#10;FROM &quot;EDW_ERPT&quot;.&quot;DIM_VENDOR_SITE&quot;;&#13;&#10;FROM &quot;EDW_ERPT&quot;.&quot;V_FIN_FID_PIVOT&quot;;&#13;&#10;FROM &quot;EDW_ERPT&quot;.&quot;V_FIN_GL_PIVOT&quot;;&#13;&#10;FROM &quot;EDW_ERPT&quot;.&quot;V_FIN_INVOICE&quot;;&#13;&#10;FROM &quot;EDW_ERPT&quot;.&quot;V_FIN_JOURNAL_ENTRY&quot;&#13;&#10;FROM &quot;EDW_ERPT&quot;.&quot;V_FIN_PAYMENT&quot;;&#13;&#10;FROM &quot;EDW_ERPT&quot;.&quot;V_FIN_PROJECT_HOUR_JE&quot;;&#13;&#10;FROM &quot;EDW_ERPT&quot;.&quot;V_FIN_PROJECT_HOUR_WORKED&quot;;&#13;&#10;FROM &quot;EDW_ERPT&quot;.&quot;V_FIN_PURCHASE_ORDER&quot;;&#13;&#10;FROM &quot;EDW_ERPT&quot;.&quot;V_FIN_REQUISITION&quot;;&#13;&#10;FROM &quot;EDW_ERPT&quot;.&quot;V_FIN_SECURITY_EMP_ROLE&quot;;&#13;&#10;FROM &quot;EDW_ERPT&quot;.&quot;V_FIN_SECURITY_MATRIX_ROLE&quot;;&#13;&#10;FROM &quot;EDW_ERPT&quot;.&quot;FACT_FIN_EXCHANGE_RATE&quot;;&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">let vSourceFilePath = '$(vInclude)\QlikViewData\SourceDocuments\01_Extraction\Data_SHARP_Finance';&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">let vSourceFilePath = '$(vInclude)\QlikViewData\SourceDocuments\01_Extraction\Data_SHARP_Finance';&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s24"><Data ss:Type="String">[$(vSourceFilePath)\DIM_ACCOUNT_HIER.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\DIM_COMPANY_HIER.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\DIM_COST_CENTER_HIER.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\DIM_CURRENCY.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\DIM_EMPLOYEE.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\DIM_FID_HIER.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\DIM_INTERCOMPANY.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\DIM_LEDGER.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\DIM_LOCATION_HIER.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\DIM_ORGANIZATION.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\DIM_PROJECT.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\DIM_TASK.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\DIM_VENDOR.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\DIM_VENDOR_SITE.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\V_FIN_FID_PIVOT.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\V_FIN_GL_PIVOT.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\V_FIN_INVOICE.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\V_FIN_JOURNAL_ENTRY.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\V_FIN_PAYMENT.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\V_FIN_PROJECT_HOUR_JE.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\V_FIN_PROJECT_HOUR_WORKED.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\V_FIN_PURCHASE_ORDER.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\V_FIN_REQUISITION.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\V_FIN_SECURITY_EMP_ROLE.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\V_FIN_SECURITY_MATRIX_ROLE.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\FACT_FIN_EXCHANGE_RATE.qvd](qvd);&#13;&#10;</Data><Comment
+    <Cell ss:StyleID="s76"><Data ss:Type="String">[$(vSourceFilePath)\DIM_ACCOUNT_HIER.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\DIM_COMPANY_HIER.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\DIM_COST_CENTER_HIER.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\DIM_CURRENCY.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\DIM_EMPLOYEE.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\DIM_FID_HIER.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\DIM_INTERCOMPANY.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\DIM_LEDGER.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\DIM_LOCATION_HIER.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\DIM_ORGANIZATION.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\DIM_PROJECT.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\DIM_TASK.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\DIM_VENDOR.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\DIM_VENDOR_SITE.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\V_FIN_FID_PIVOT.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\V_FIN_GL_PIVOT.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\V_FIN_INVOICE.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\V_FIN_JOURNAL_ENTRY.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\V_FIN_PAYMENT.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\V_FIN_PROJECT_HOUR_JE.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\V_FIN_PROJECT_HOUR_WORKED.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\V_FIN_PURCHASE_ORDER.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\V_FIN_REQUISITION.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\V_FIN_SECURITY_EMP_ROLE.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\V_FIN_SECURITY_MATRIX_ROLE.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\FACT_FIN_EXCHANGE_RATE.qvd](qvd);&#13;&#10;</Data><Comment
       ss:Author="Author"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
-         html:Face="Tahoma" x:CharSet="1" html:Size="9" html:Color="#000000">Author:</Font></B><Font
-        html:Face="Tahoma" x:CharSet="1" html:Size="9" html:Color="#000000">&#10;missed 1&#10;&#10;this problem was rectified&#10;&#10;</Font></ss:Data></Comment><NamedCell
+         html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">Author:</Font></B><Font
+        html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">&#10;missed 1&#10;&#10;this problem was rectified&#10;&#10;</Font></ss:Data></Comment><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s24"><Data ss:Type="String">into [$(vSourceFilePath)\DIM_CALENDAR.qvd](qvd);&#13;&#10;</Data><Comment
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">into [$(vSourceFilePath)\DIM_CALENDAR.qvd](qvd);&#13;&#10;</Data><Comment
       ss:Author="Author"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
-         html:Face="Tahoma" x:CharSet="1" html:Size="9" html:Color="#000000">Author:</Font></B><Font
-        html:Face="Tahoma" x:CharSet="1" html:Size="9" html:Color="#000000">&#10;this is output not input&#10;</Font></ss:Data></Comment><NamedCell
+         html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">Author:</Font></B><Font
+        html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">&#10;this is output not input&#10;</Font></ss:Data></Comment><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="105">
-    <Cell ss:StyleID="s22"><Data ss:Type="Number">20</Data><NamedCell
+    <Cell ss:StyleID="s73"><Data ss:Type="Number">20</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">01_Extraction</Data><NamedCell
+    <Cell ss:StyleID="s73"><Data ss:Type="String">01_Extraction</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Extraction_SHARP_PM</Data><NamedCell
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Extraction_SHARP_PM</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">OLEDB&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">OLEDB&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">[Provider=MSDASQL.1;Persist Security Info=True;User ID=PM_RO_USER;Data Source=ERPTPRD;Extended Properties=&quot;DSN=ERPTPRD;UID=PM_RO_USER;DBQ=TNS_ADMIN;DBA=W;APA=T;EXC=F;FEN=T;QTO=T;FRC=10;FDL=10;LOB=T;RST=T;BTD=F;BNF=F;BAM=IfAllSuccessful;NUM=NLS;DPM=F;MTS=T;MDI=F;CSR=F;FWC=F;FBS=64000;TLO=O;MLD=0;ODA=F;&quot;] (XPassword is XfAIPVRNQRTcGbQGLLBB);&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s75"><Data ss:Type="String">[Provider=MSDASQL.1;Persist Security Info=True;User ID=PM_RO_USER;Data Source=ERPTPRD;Extended Properties=&quot;DSN=ERPTPRD;UID=PM_RO_USER;DBQ=TNS_ADMIN;DBA=W;APA=T;EXC=F;FEN=T;QTO=T;FRC=10;FDL=10;LOB=T;RST=T;BTD=F;BNF=F;BAM=IfAllSuccessful;NUM=NLS;DPM=F;MTS=T;MDI=F;CSR=F;FWC=F;FBS=64000;TLO=O;MLD=0;ODA=F;&quot;] (XPassword is XfAIPVRNQRTcGbQGLLBB);&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">FROM &quot;EDW_PM_USER&quot;.&quot;V_PM_DIM_ACCOUNT_HIER&quot;;&#13;&#10;FROM &quot;EDW_PM_USER&quot;.&quot;V_PM_DIM_COST_CENTER_HIER&quot;;&#13;&#10;FROM &quot;EDW_PM_USER&quot;.&quot;V_PM_DIM_LOCATION_HIER&quot;;&#13;&#10;FROM &quot;EDW_PM_USER&quot;.&quot;V_PM_DIM_PROJECT&quot;;&#13;&#10;FROM &quot;EDW_PM_USER&quot;.&quot;V_PM_DIM_TASK&quot;;&#13;&#10;FROM &quot;EDW_PM_USER&quot;.&quot;V_PM_DIM_EMPLOYEE&quot;;&#13;&#10;FROM &quot;EDW_PM_USER&quot;.&quot;V_PM_DIM_FID_HIER&quot;;&#13;&#10;FROM &quot;EDW_PM_USER&quot;.&quot;V_PM_SECURITY_MATRIX_ROLE&quot;;&#13;&#10;FROM &quot;EDW_PM_USER&quot;.&quot;V_PM_SECURITY_EMP_ROLE&quot;;&#13;&#10;FROM EDW_PM_USER.V_PM_GL_PIVOT;&#13;&#10;FROM &quot;EDW_PM_USER&quot;.&quot;V_PM_PROJECT_HOUR_JE&quot;;&#13;&#10;FROM &quot;EDW_PM_USER&quot;.&quot;V_PM_PROJECT_HOUR_WORKED&quot;;&#13;&#10;FROM &quot;EDW_PM_USER&quot;.&quot;V_PM_FID_PIVOT&quot;;&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">FROM &quot;EDW_PM_USER&quot;.&quot;V_PM_DIM_ACCOUNT_HIER&quot;;&#13;&#10;FROM &quot;EDW_PM_USER&quot;.&quot;V_PM_DIM_COST_CENTER_HIER&quot;;&#13;&#10;FROM &quot;EDW_PM_USER&quot;.&quot;V_PM_DIM_LOCATION_HIER&quot;;&#13;&#10;FROM &quot;EDW_PM_USER&quot;.&quot;V_PM_DIM_PROJECT&quot;;&#13;&#10;FROM &quot;EDW_PM_USER&quot;.&quot;V_PM_DIM_TASK&quot;;&#13;&#10;FROM &quot;EDW_PM_USER&quot;.&quot;V_PM_DIM_EMPLOYEE&quot;;&#13;&#10;FROM &quot;EDW_PM_USER&quot;.&quot;V_PM_DIM_FID_HIER&quot;;&#13;&#10;FROM &quot;EDW_PM_USER&quot;.&quot;V_PM_SECURITY_MATRIX_ROLE&quot;;&#13;&#10;FROM &quot;EDW_PM_USER&quot;.&quot;V_PM_SECURITY_EMP_ROLE&quot;;&#13;&#10;FROM EDW_PM_USER.V_PM_GL_PIVOT;&#13;&#10;FROM &quot;EDW_PM_USER&quot;.&quot;V_PM_PROJECT_HOUR_JE&quot;;&#13;&#10;FROM &quot;EDW_PM_USER&quot;.&quot;V_PM_PROJECT_HOUR_WORKED&quot;;&#13;&#10;FROM &quot;EDW_PM_USER&quot;.&quot;V_PM_FID_PIVOT&quot;;&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">let vSourceFilePath = '$(vInclude)\qlikviewdata\SourceDocuments\01_Extraction';&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">let vSourceFilePath = '$(vInclude)\qlikviewdata\SourceDocuments\01_Extraction';&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">[$(vSourceFilePath)\Data_Financials_PM\V_PM_DIM_ACCOUNT_HIER.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\Data_Financials_PM\V_PM_DIM_COST_CENTER_HIER.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\Data_Financials_PM\V_PM_DIM_LOCATION_HIER.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\Data_Financials_PM\V_PM_DIM_PROJECT.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\Data_Financials_PM\V_PM_TASK.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\Data_Financials_PM\V_PM_DIM_EMPLOYEE.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\Data_Financials_PM\V_PM_DIM_FID_HIER.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\Data_Financials_PM\V_PM_SECURITY_MATRIX_ROLE.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\Data_Financials_PM\V_PM_SECURITY_EMP_ROLE.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\Data_Financials_PM\V_PM_GL_PIVOT.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\Data_Financials_PM\V_PM_PROJECT_HOUR_JE.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\Data_Financials_PM\V_PM_PROJECT_HOUR_WORKED.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\Data_Financials_PM\V_PM_FID_PIVOT.qvd](qvd);&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s75"><Data ss:Type="String">[$(vSourceFilePath)\Data_Financials_PM\V_PM_DIM_ACCOUNT_HIER.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\Data_Financials_PM\V_PM_DIM_COST_CENTER_HIER.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\Data_Financials_PM\V_PM_DIM_LOCATION_HIER.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\Data_Financials_PM\V_PM_DIM_PROJECT.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\Data_Financials_PM\V_PM_TASK.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\Data_Financials_PM\V_PM_DIM_EMPLOYEE.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\Data_Financials_PM\V_PM_DIM_FID_HIER.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\Data_Financials_PM\V_PM_SECURITY_MATRIX_ROLE.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\Data_Financials_PM\V_PM_SECURITY_EMP_ROLE.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\Data_Financials_PM\V_PM_GL_PIVOT.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\Data_Financials_PM\V_PM_PROJECT_HOUR_JE.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\Data_Financials_PM\V_PM_PROJECT_HOUR_WORKED.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\Data_Financials_PM\V_PM_FID_PIVOT.qvd](qvd);&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
-   <Row ss:Height="30">
-    <Cell ss:StyleID="s22"><Data ss:Type="Number">21</Data><NamedCell
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:StyleID="s73"><Data ss:Type="Number">21</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">01_Extraction</Data><NamedCell
+    <Cell ss:StyleID="s73"><Data ss:Type="String">01_Extraction</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Extraction_SHARP_Security_Table_Generation_PM</Data><NamedCell
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Extraction_SHARP_Security_Table_Generation_PM</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">let vSourceFilePath = '$(vInclude)\qlikviewdata\SourceDocuments\01_Extraction\Data_Financials_PM';&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">let vSourceFilePath = '$(vInclude)\qlikviewdata\SourceDocuments\01_Extraction\Data_Financials_PM';&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">[$(vSourceFilePath)\V_PM_SHARP_SECURITY.qvd];&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s75"><Data ss:Type="String">[$(vSourceFilePath)\V_PM_SHARP_SECURITY.qvd];&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s25"><Comment ss:Author="Author"><ss:Data
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s77"><Comment ss:Author="Author"><ss:Data
        xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Face="Tahoma"
-         x:CharSet="1" html:Size="9" html:Color="#000000">Author:</Font></B><Font
-        html:Face="Tahoma" x:CharSet="1" html:Size="9" html:Color="#000000">&#10;there are multiple instances where qvd is loaded from</Font></ss:Data></Comment><NamedCell
+         x:Family="Swiss" html:Size="9" html:Color="#000000">Author:</Font></B><Font
+        html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">&#10;there are multiple instances where qvd is loaded from</Font></ss:Data></Comment><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s25"><Comment ss:Author="Author"><ss:Data
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s77"><Comment ss:Author="Author"><ss:Data
        xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Face="Tahoma"
-         x:CharSet="1" html:Size="9" html:Color="#000000">Author:</Font></B><Font
-        html:Face="Tahoma" x:CharSet="1" html:Size="9" html:Color="#000000">&#10;1 loaded from xls.. Can check if you check xlsx only or xls too&#10;</Font></ss:Data></Comment><NamedCell
+         x:Family="Swiss" html:Size="9" html:Color="#000000">Author:</Font></B><Font
+        html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">&#10;1 loaded from xls.. Can check if you check xlsx only or xls too&#10;</Font></ss:Data></Comment><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-   </Row>
-   <Row ss:Height="105">
-    <Cell ss:StyleID="s22"><Data ss:Type="Number">22</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">01_Extraction</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Extraction_TargetDB</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">let vLoadStartTime = Now(1);&#13;&#10;let vSourceFilePath = '$(vInclude)\QlikViewData\SourceDocuments\01_Extraction\Data_TargetsDB';&#13;&#10;let vLoadEndTime = Now(1);&#13;&#10;</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">[$(vSourceFilePath)\Targets.qvd];&#13;&#10;[$(vSourceFilePath)\AssociatedTFAs.qvd];&#13;&#10;[$(vSourceFilePath)\Indications.qvd];&#13;&#10;[$(vSourceFilePath)\MechanismOfActions.qvd];&#13;&#10;[$(vSourceFilePath)\Milestones.qvd];&#13;&#10;[$(vSourceFilePath)\Stage_definitions.qvd];&#13;&#10;</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s25"><Comment ss:Author="Author"><ss:Data
-       xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Face="Tahoma"
-         x:CharSet="1" html:Size="9" html:Color="#000000">Author:</Font></B><Font
-        html:Face="Tahoma" x:CharSet="1" html:Size="9" html:Color="#000000">&#10;multiple instances of csv laods  6 in total for this file.&#10;</Font></ss:Data></Comment><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-   </Row>
-   <Row ss:Height="60">
-    <Cell ss:StyleID="s22"><Data ss:Type="Number">23</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">01_Extraction</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">Extraction_TargetNomination</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">FROM [https://sharepoint2013/sites/RnD/PnO/Forums/TargetNomination/_vti_bin/owssvr.dll?Cmd=Display&amp;XMLDATA=1&amp;RowLimit=0&amp;List={80ED973B%2DCAC2%2D465A%2D9947%2D57DE81FF729A}] (XmlSimple, Table is [xml/data/row]);&#13;&#10;</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">[\\TARQLKFS01P\QlikViewData\SourceDocuments\01_Extraction\Data_TargetNom\TargetNom.qvd] (qvd);&#13;&#10;</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="105">
-    <Cell ss:StyleID="s22"><Data ss:Type="Number">24</Data><NamedCell
+    <Cell ss:StyleID="s73"><Data ss:Type="Number">22</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">01_Extraction</Data><NamedCell
+    <Cell ss:StyleID="s73"><Data ss:Type="String">01_Extraction</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">SHARP_Financial_Data_Model_Pre_SA</Data><NamedCell
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Extraction_TargetDB</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">let vSourceFilePath = '$(vInclude)\QlikViewData\SourceDocuments\01_Extraction\Data_SHARP_Finance';&#13;&#10;let vSourceFilePathCommercial='\\tarevs01\TARDATA\Data\Commercial\Field Expense Trackers';&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">let vLoadStartTime = Now(1);&#13;&#10;let vSourceFilePath = '$(vInclude)\QlikViewData\SourceDocuments\01_Extraction\Data_TargetsDB';&#13;&#10;let vLoadEndTime = Now(1);&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s24"><Data ss:Type="String">[$(vSourceFilePath)\DIM_COST_CENTER_HIER.qvd]&#13;&#10;[$(vSourceFilePath)\WorkIDtoFIDMappings.qvd]&#13;&#10;[$(vSourceFilePath)\WorkID2OldFID.qvd]&#13;&#10;[$(vSourceFilePath)\DIM_COST_CENTER_HIER.qvd]&#13;&#10;[$(vSourceFilePath)\DIM_LOCATION_HIER.qvd]&#13;&#10;[$(vSourceFilePath)\DIM_EMPLOYEE.qvd]&#13;&#10;[$(vSourceFilePath)\DIM_EMPLOYEE.qvd]&#13;&#10;[$(vSourceFilePath)\DIM_EMPLOYEE.qvd]&#13;&#10;[$(vSourceFilePath)\DIM_INTERCOMPANY.qvd]&#13;&#10;[$(vSourceFilePath)\V_FIN_FID_PIVOT.qvd]&#13;&#10;[$(vSourceFilePath)\V_FIN_INVOICE.qvd]&#13;&#10;[$(vSourceFilePath)\FACT_FIN_EXCHANGE_RATE.qvd]&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s75"><Data ss:Type="String">[$(vSourceFilePath)\Targets.qvd];&#13;&#10;[$(vSourceFilePath)\AssociatedTFAs.qvd];&#13;&#10;[$(vSourceFilePath)\Indications.qvd];&#13;&#10;[$(vSourceFilePath)\MechanismOfActions.qvd];&#13;&#10;[$(vSourceFilePath)\Milestones.qvd];&#13;&#10;[$(vSourceFilePath)\Stage_definitions.qvd];&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">[$(vSourceFilePathCommercial)\Concur_Molecule_Product.xlsx]&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s77"><Comment ss:Author="Author"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Face="Tahoma"
+         x:Family="Swiss" html:Size="9" html:Color="#000000">Author:</Font></B><Font
+        html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">&#10;multiple instances of csv laods  6 in total for this file.&#10;</Font></ss:Data></Comment><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="60">
+    <Cell ss:StyleID="s73"><Data ss:Type="Number">23</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">01_Extraction</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Extraction_TargetNomination</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">FROM [https://sharepoint2013/sites/RnD/PnO/Forums/TargetNomination/_vti_bin/owssvr.dll?Cmd=Display&amp;XMLDATA=1&amp;RowLimit=0&amp;List={80ED973B%2DCAC2%2D465A%2D9947%2D57DE81FF729A}] (XmlSimple, Table is [xml/data/row]);&#13;&#10;</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">[\\TARQLKFS01P\QlikViewData\SourceDocuments\01_Extraction\Data_TargetNom\TargetNom.qvd] (qvd);&#13;&#10;</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="105">
+    <Cell ss:StyleID="s73"><Data ss:Type="Number">24</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">01_Extraction</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">SHARP_Financial_Data_Model_Pre_SA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">let vSourceFilePath = '$(vInclude)\QlikViewData\SourceDocuments\01_Extraction\Data_SHARP_Finance';&#13;&#10;let vSourceFilePathCommercial='\\tarevs01\TARDATA\Data\Commercial\Field Expense Trackers';&#13;&#10;</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">[$(vSourceFilePath)\DIM_COST_CENTER_HIER.qvd]&#13;&#10;[$(vSourceFilePath)\WorkIDtoFIDMappings.qvd]&#13;&#10;[$(vSourceFilePath)\WorkID2OldFID.qvd]&#13;&#10;[$(vSourceFilePath)\DIM_COST_CENTER_HIER.qvd]&#13;&#10;[$(vSourceFilePath)\DIM_LOCATION_HIER.qvd]&#13;&#10;[$(vSourceFilePath)\DIM_EMPLOYEE.qvd]&#13;&#10;[$(vSourceFilePath)\DIM_EMPLOYEE.qvd]&#13;&#10;[$(vSourceFilePath)\DIM_EMPLOYEE.qvd]&#13;&#10;[$(vSourceFilePath)\DIM_INTERCOMPANY.qvd]&#13;&#10;[$(vSourceFilePath)\V_FIN_FID_PIVOT.qvd]&#13;&#10;[$(vSourceFilePath)\V_FIN_INVOICE.qvd]&#13;&#10;[$(vSourceFilePath)\FACT_FIN_EXCHANGE_RATE.qvd]&#13;&#10;</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">[$(vSourceFilePathCommercial)\Concur_Molecule_Product.xlsx]&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="96">
-    <Cell ss:StyleID="s22"><Data ss:Type="Number">25</Data><NamedCell
+    <Cell ss:StyleID="s73"><Data ss:Type="Number">25</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">01_Extraction</Data><NamedCell
+    <Cell ss:StyleID="s73"><Data ss:Type="String">01_Extraction</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><Data ss:Type="String">SHARP_Financial_Data_Model_Security_Table_Generation</Data><NamedCell
+    <Cell ss:StyleID="s73"><Data ss:Type="String">SHARP_Financial_Data_Model_Security_Table_Generation</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">let vSourceFilePath1 = '$(vInclude)\qlikviewdata\SourceDocuments\01_Extraction\Data_SHARP_Finance';&#13;&#10;let vSourceFilePath2 = '$(vInclude)\qlikviewdata\SourceDocuments\01_Extraction\Data_SHARP_Finance';&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">let vSourceFilePath1 = '$(vInclude)\qlikviewdata\SourceDocuments\01_Extraction\Data_SHARP_Finance';&#13;&#10;let vSourceFilePath2 = '$(vInclude)\qlikviewdata\SourceDocuments\01_Extraction\Data_SHARP_Finance';&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s23"><Data ss:Type="String">[$(vSourceFilePath2)\V_FIN_SHARP_SECURITY.qvd];&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s75"><Data ss:Type="String">[$(vSourceFilePath2)\V_FIN_SHARP_SECURITY.qvd];&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s25"><Comment ss:Author="Author"><ss:Data
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s77"><Comment ss:Author="Author"><ss:Data
        xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Face="Tahoma"
-         x:CharSet="1" html:Size="9" html:Color="#000000">Author:</Font></B><Font
-        html:Face="Tahoma" x:CharSet="1" html:Size="9" html:Color="#000000">&#10;missed 4 cases of qvd read&#10;</Font></ss:Data></Comment><NamedCell
+         x:Family="Swiss" html:Size="9" html:Color="#000000">Author:</Font></B><Font
+        html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">&#10;missed 4 cases of qvd read&#10;</Font></ss:Data></Comment><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s22"><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s25"><Comment ss:Author="Author"><ss:Data
+    <Cell ss:StyleID="s73"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s77"><Comment ss:Author="Author"><ss:Data
        xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Face="Tahoma"
-         x:CharSet="1" html:Size="9" html:Color="#000000">Author:</Font></B><Font
-        html:Face="Tahoma" x:CharSet="1" html:Size="9" html:Color="#000000">&#10;two cases of xlsx read&#10;</Font></ss:Data></Comment><NamedCell
+         x:Family="Swiss" html:Size="9" html:Color="#000000">Author:</Font></B><Font
+        html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">&#10;two cases of xlsx read&#10;</Font></ss:Data></Comment><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
-   <Row ss:Height="345" ss:Hidden="1">
+   <Row ss:AutoFitHeight="0" ss:Height="345" ss:Hidden="1" ss:StyleID="Default">
     <Cell><Data ss:Type="Number">26</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">02_Data Model</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">CDRA_Quality Data Model</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:Index="11" ss:StyleID="s16"><Data ss:Type="String">let vSourceFilePath = '$(vInclude)\QlikViewData\SourceDocuments\01_Extraction\Data_Quality_Access';&#13;&#10;let vSourceFilePathCOMPASS = '$(vInclude)\QlikViewData\SourceDocuments\01_Extraction\Data_MSP_Direct';&#13;&#10;let vSourceFilePath = '\\TARQLKFS01P\QlikViewData\SourceDocuments\01_Extraction\Data_Quality_Access';&#13;&#10;let vSourceFilePathCOMPASS = '\\TARQLKFS01P\QlikViewData\SourceDocuments\01_Extraction\Data_MSP_Direct';&#13;&#10;let vSourceFilePathSHARP = '\\TARQLKFS01P\QlikViewData\SourceDocuments\01_Extraction\Data_SHARP_Finance';&#13;&#10;</Data><NamedCell
+    <Cell ss:Index="11" ss:StyleID="s70"><Data ss:Type="String">let vSourceFilePath = '$(vInclude)\QlikViewData\SourceDocuments\01_Extraction\Data_Quality_Access';&#13;&#10;let vSourceFilePathCOMPASS = '$(vInclude)\QlikViewData\SourceDocuments\01_Extraction\Data_MSP_Direct';&#13;&#10;let vSourceFilePath = '\\TARQLKFS01P\QlikViewData\SourceDocuments\01_Extraction\Data_Quality_Access';&#13;&#10;let vSourceFilePathCOMPASS = '\\TARQLKFS01P\QlikViewData\SourceDocuments\01_Extraction\Data_MSP_Direct';&#13;&#10;let vSourceFilePathSHARP = '\\TARQLKFS01P\QlikViewData\SourceDocuments\01_Extraction\Data_SHARP_Finance';&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s16"><Data ss:Type="String">[$(vInclude)\qlikviewdata\SourceDocuments\01_Extraction\Data\USABILITY.qvd]&#13;&#10;</Data><NamedCell
+    <Cell ss:StyleID="s70"><Data ss:Type="String">[$(vInclude)\qlikviewdata\SourceDocuments\01_Extraction\Data\USABILITY.qvd]&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:Index="15" ss:StyleID="s16"><Data ss:Type="String">[$(vSourceFilePath)\_SSN_Studies_Impacted.qvd]&#13;&#10;[$(vSourceFilePath)\SSN.qvd]&#13;&#10;[$(vSourceFilePath)\_SSN_Parties_of_concern.qvd]&#13;&#10;[$(vSourceFilePathCOMPASS)\MSP_EpmProject_UserView.qvd]&#13;&#10;[$(vSourceFilePath)\ALERT_MAIN_FORM.qvd]&#13;&#10;[$(vSourceFilePath)\SSNs_Areas_of_Concern.qvd]&#13;&#10;[$(vSourceFilePath)\Main_Audit_Information.qvd]&#13;&#10;[$(vSourceFilePath)\OBSERVATION.qvd]&#13;&#10;[$(vSourceFilePath)\Actions.qvd]&#13;&#10;[$(vSourceFilePath)\Actions.qvd]&#13;&#10;[$(vSourceFilePath)\ROOT_CAUSE.qvd]&#13;&#10;[$(vSourceFilePath)\USABILITY.qvd]&#13;&#10;[$(vSourceFilePath)\SSN.qvd]&#13;&#10;[$(vSourceFilePath)\_SSN_Studies_Impacted.qvd]&#13;&#10;[$(vSourceFilePath)\_SSN_Parties_of_concern.qvd]&#13;&#10;[$(vSourceFilePath)\ALERT_MAIN_FORM.qvd]&#13;&#10;[$(vSourceFilePath)\SSNs_Areas_of_Concern.qvd]&#13;&#10;[$(vSourceFilePath)\Main_Audit_Information.qvd]&#13;&#10;[$(vSourceFilePath)\OBSERVATION.qvd]&#13;&#10;[$(vSourceFilePath)\ROOT_CAUSE.qvd]&#13;&#10;[$(vSourceFilePath)\Actions.qvd]&#13;&#10;[$(vSourceFilePath)\Actions.qvd]&#13;&#10;</Data><NamedCell
+    <Cell ss:Index="15" ss:StyleID="s70"><Data ss:Type="String">[$(vSourceFilePath)\_SSN_Studies_Impacted.qvd]&#13;&#10;[$(vSourceFilePath)\SSN.qvd]&#13;&#10;[$(vSourceFilePath)\_SSN_Parties_of_concern.qvd]&#13;&#10;[$(vSourceFilePathCOMPASS)\MSP_EpmProject_UserView.qvd]&#13;&#10;[$(vSourceFilePath)\ALERT_MAIN_FORM.qvd]&#13;&#10;[$(vSourceFilePath)\SSNs_Areas_of_Concern.qvd]&#13;&#10;[$(vSourceFilePath)\Main_Audit_Information.qvd]&#13;&#10;[$(vSourceFilePath)\OBSERVATION.qvd]&#13;&#10;[$(vSourceFilePath)\Actions.qvd]&#13;&#10;[$(vSourceFilePath)\Actions.qvd]&#13;&#10;[$(vSourceFilePath)\ROOT_CAUSE.qvd]&#13;&#10;[$(vSourceFilePath)\USABILITY.qvd]&#13;&#10;[$(vSourceFilePath)\SSN.qvd]&#13;&#10;[$(vSourceFilePath)\_SSN_Studies_Impacted.qvd]&#13;&#10;[$(vSourceFilePath)\_SSN_Parties_of_concern.qvd]&#13;&#10;[$(vSourceFilePath)\ALERT_MAIN_FORM.qvd]&#13;&#10;[$(vSourceFilePath)\SSNs_Areas_of_Concern.qvd]&#13;&#10;[$(vSourceFilePath)\Main_Audit_Information.qvd]&#13;&#10;[$(vSourceFilePath)\OBSERVATION.qvd]&#13;&#10;[$(vSourceFilePath)\ROOT_CAUSE.qvd]&#13;&#10;[$(vSourceFilePath)\Actions.qvd]&#13;&#10;[$(vSourceFilePath)\Actions.qvd]&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
-   <Row ss:Height="45" ss:Hidden="1">
+   <Row ss:AutoFitHeight="0" ss:Height="45" ss:Hidden="1" ss:StyleID="Default">
     <Cell><Data ss:Type="Number">27</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">02_Data Model</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">LIMS_Nautilus_Data Model</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:Index="17" ss:StyleID="s16"><Data ss:Type="String">//[$(vInclude)\QlikViewdata\sourcedocuments\01_Extraction\Data_LIMS_Nautilus\Ab dB Lead metrics.xlsx]&#13;&#10;</Data><NamedCell
+    <Cell ss:Index="17" ss:StyleID="s70"><Data ss:Type="String">//[$(vInclude)\QlikViewdata\sourcedocuments\01_Extraction\Data_LIMS_Nautilus\Ab dB Lead metrics.xlsx]&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
-   <Row ss:Height="405" ss:Hidden="1">
+   <Row ss:AutoFitHeight="0" ss:Height="405" ss:Hidden="1" ss:StyleID="Default">
     <Cell><Data ss:Type="Number">28</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">02_Data Model</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">MSP_CommPM Data Model</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:Index="11" ss:StyleID="s16"><Data ss:Type="String">let LoadStartTime = Now(1);&#13;&#10;let vSourceFilePath = '$(vInclude)\QlikViewData\SourceDocuments\01_Extraction\Data_MSP_Direct_CommPM';&#13;&#10;</Data><NamedCell
+    <Cell ss:Index="11" ss:StyleID="s70"><Data ss:Type="String">let LoadStartTime = Now(1);&#13;&#10;let vSourceFilePath = '$(vInclude)\QlikViewData\SourceDocuments\01_Extraction\Data_MSP_Direct_CommPM';&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:Index="15" ss:StyleID="s16"><Data ss:Type="String">FROM [$(vSourceFilePath)\CommPM_Assignments.qvd] (QVD)&#13;&#10;FROM [$(vSourceFilePath)\CommPM_Assignments.qvd] (QVD)&#13;&#10;FROM  [$(vSourceFilePath)\CommPM_Resources.qvd] (QVD)&#13;&#10;FROM  [$(vSourceFilePath)\CommPM_Resources.qvd] (QVD)&#13;&#10;FROM [$(vSourceFilePath)\CommPM_Projects.qvd] (QVD)&#13;&#10;FROM [$(vSourceFilePath)\CommPM_Tasks.qvd] (QVD)&#13;&#10;FROM [$(vSourceFilePath)\CommPM_Tasks.qvd] (QVD)&#13;&#10;FROM [$(vSourceFilePath)\CommPM_Tasks.qvd] (QVD)&#13;&#10;FROM [$(vSourceFilePath)\CommPM_Tasks.qvd] (QVD)&#13;&#10;FROM [$(vSourceFilePath)\CommPM_Tasks.qvd]  (QVD)&#13;&#10;FROM [$(vSourceFilePath)\CommPM_Tasks.qvd]  (QVD)&#13;&#10;FROM [$(vSourceFilePath)\CommPM_Tasks.qvd] (QVD)&#13;&#10;//FROM [$(vSourceFilePath)\CommPM_Tasks.qvd] (QVD)&#13;&#10;FROM [$(vSourceFilePath)\CommPM_Tasks.qvd]  (QVD)&#13;&#10;FROM [$(vSourceFilePath)\CommPM_Tasks.qvd] (QVD)&#13;&#10;FROM [$(vSourceFilePath)\CommPM_Tasks.qvd] (QVD)&#13;&#10;FROM [$(vSourceFilePath)\CommPM_Tasks.qvd] (QVD)&#13;&#10;FROM [$(vSourceFilePath)\CommPM_MSP_Links.qvd] (QVD)&#13;&#10;FROM [$(vSourceFilePath)\CommPM_MSP_Links.qvd] (QVD)&#13;&#10;//FROM [$(vSourceFilePath)\Commercial PM Dash_Tasks_GanttView.qvd] (QVD)&#13;&#10;//FROM [$(vSourceFilePath)\Commercial PM Dash_Tasks_GanttView.qvd] (QVD)&#13;&#10;FROM [$(vSourceFilePath)\CommPM_ProjectSiteTasks.qvd] (QVD)&#13;&#10;FROM [$(vSourceFilePath)\CommPM_StatusReports.qvd] (QVD)&#13;&#10;FROM [$(vSourceFilePath)\\CommPM_NewProjectEntreis.qvd] (QVD)&#13;&#10;//FROM [$(vSourceFilePath)\Commercial PM Dash_NewProjectEntreisProjects.qvd] (QVD)&#13;&#10;//FROM [$(vSourceFilePath)\CommPM_Tasks.qvd] (QVD)&#13;&#10;</Data><NamedCell
+    <Cell ss:Index="15" ss:StyleID="s70"><Data ss:Type="String">FROM [$(vSourceFilePath)\CommPM_Assignments.qvd] (QVD)&#13;&#10;FROM [$(vSourceFilePath)\CommPM_Assignments.qvd] (QVD)&#13;&#10;FROM  [$(vSourceFilePath)\CommPM_Resources.qvd] (QVD)&#13;&#10;FROM  [$(vSourceFilePath)\CommPM_Resources.qvd] (QVD)&#13;&#10;FROM [$(vSourceFilePath)\CommPM_Projects.qvd] (QVD)&#13;&#10;FROM [$(vSourceFilePath)\CommPM_Tasks.qvd] (QVD)&#13;&#10;FROM [$(vSourceFilePath)\CommPM_Tasks.qvd] (QVD)&#13;&#10;FROM [$(vSourceFilePath)\CommPM_Tasks.qvd] (QVD)&#13;&#10;FROM [$(vSourceFilePath)\CommPM_Tasks.qvd] (QVD)&#13;&#10;FROM [$(vSourceFilePath)\CommPM_Tasks.qvd]  (QVD)&#13;&#10;FROM [$(vSourceFilePath)\CommPM_Tasks.qvd]  (QVD)&#13;&#10;FROM [$(vSourceFilePath)\CommPM_Tasks.qvd] (QVD)&#13;&#10;//FROM [$(vSourceFilePath)\CommPM_Tasks.qvd] (QVD)&#13;&#10;FROM [$(vSourceFilePath)\CommPM_Tasks.qvd]  (QVD)&#13;&#10;FROM [$(vSourceFilePath)\CommPM_Tasks.qvd] (QVD)&#13;&#10;FROM [$(vSourceFilePath)\CommPM_Tasks.qvd] (QVD)&#13;&#10;FROM [$(vSourceFilePath)\CommPM_Tasks.qvd] (QVD)&#13;&#10;FROM [$(vSourceFilePath)\CommPM_MSP_Links.qvd] (QVD)&#13;&#10;FROM [$(vSourceFilePath)\CommPM_MSP_Links.qvd] (QVD)&#13;&#10;//FROM [$(vSourceFilePath)\Commercial PM Dash_Tasks_GanttView.qvd] (QVD)&#13;&#10;//FROM [$(vSourceFilePath)\Commercial PM Dash_Tasks_GanttView.qvd] (QVD)&#13;&#10;FROM [$(vSourceFilePath)\CommPM_ProjectSiteTasks.qvd] (QVD)&#13;&#10;FROM [$(vSourceFilePath)\CommPM_StatusReports.qvd] (QVD)&#13;&#10;FROM [$(vSourceFilePath)\\CommPM_NewProjectEntreis.qvd] (QVD)&#13;&#10;//FROM [$(vSourceFilePath)\Commercial PM Dash_NewProjectEntreisProjects.qvd] (QVD)&#13;&#10;//FROM [$(vSourceFilePath)\CommPM_Tasks.qvd] (QVD)&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:Index="17" ss:StyleID="s16"><Data ss:Type="String">FROM [$(vInclude)\qlikviewdata\sourcedocuments\06_dashboard_compm\Consolidated Tactic File - Apr Reforecast.xlsx]&#13;&#10;</Data><NamedCell
+    <Cell ss:Index="17" ss:StyleID="s70"><Data ss:Type="String">FROM [$(vInclude)\qlikviewdata\sourcedocuments\06_dashboard_compm\Consolidated Tactic File - Apr Reforecast.xlsx]&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
-   <Row ss:Height="120" ss:Hidden="1">
+   <Row ss:AutoFitHeight="0" ss:Height="120" ss:Hidden="1" ss:StyleID="Default">
     <Cell><Data ss:Type="Number">29</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">02_Data Model</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">MSP_COMPASS Data Model DraftDB</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:Index="11" ss:StyleID="s16"><Data ss:Type="String">let vLoadStartTime = Now(1);&#13;&#10;let vSourceFilePath = '$(vInclude)\QlikViewData\SourceDocuments\01_Extraction\Data_MSP_Direct_Draft_DB';&#13;&#10;</Data><NamedCell
+    <Cell ss:Index="11" ss:StyleID="s70"><Data ss:Type="String">let vLoadStartTime = Now(1);&#13;&#10;let vSourceFilePath = '$(vInclude)\QlikViewData\SourceDocuments\01_Extraction\Data_MSP_Direct_Draft_DB';&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:Index="15" ss:StyleID="s16"><Data ss:Type="String">FROM [$(vSourceFilePath)\MSP_PROJECTS.qvd] (qvd);&#13;&#10;FROM [$(vSourceFilePath)\MSP_TASKS.qvd] (qvd);&#13;&#10;FROM [$(vSourceFilePath)\MSP_RESOURCES_PUBLISHED_VIEW.qvd] (qvd);&#13;&#10;FROM [$(vSourceFilePath)\MSP_ASSIGNMENTS.qvd] (qvd);&#13;&#10;[$(vSourceFilePath)\MSP_WORKFLOW_PHASES_PUBLISHED_VIEW.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\MSP_WORKFLOW_STATUS_PUBLISHED_VIEW.qvd](qvd);&#13;&#10;FROM [$(vSourceFilePath)\MSP_WORKFLOW_STAGES_PUBLISHED_VIEW.qvd](qvd);&#13;&#10;</Data><NamedCell
+    <Cell ss:Index="15" ss:StyleID="s70"><Data ss:Type="String">FROM [$(vSourceFilePath)\MSP_PROJECTS.qvd] (qvd);&#13;&#10;FROM [$(vSourceFilePath)\MSP_TASKS.qvd] (qvd);&#13;&#10;FROM [$(vSourceFilePath)\MSP_RESOURCES_PUBLISHED_VIEW.qvd] (qvd);&#13;&#10;FROM [$(vSourceFilePath)\MSP_ASSIGNMENTS.qvd] (qvd);&#13;&#10;[$(vSourceFilePath)\MSP_WORKFLOW_PHASES_PUBLISHED_VIEW.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\MSP_WORKFLOW_STATUS_PUBLISHED_VIEW.qvd](qvd);&#13;&#10;FROM [$(vSourceFilePath)\MSP_WORKFLOW_STAGES_PUBLISHED_VIEW.qvd](qvd);&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
-   <Row ss:Height="409.5" ss:Hidden="1">
+   <Row ss:AutoFitHeight="0" ss:Height="409.5" ss:Hidden="1" ss:StyleID="Default">
     <Cell><Data ss:Type="Number">30</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">02_Data Model</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">MSP_COMPASS Data Model</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:Index="11" ss:StyleID="s16"><Data ss:Type="String">let vLoadStartTime = Now(1);&#13;&#10;let vLoadMinDate = floor(AddMonths(YearStart(today()), -3));&#13;&#10;let vLoadMaxDate = floor(AddMonths(MonthStart(AddMonths(Now(1), +120)), -1));&#13;&#10;let vSourceFilePath = '$(vInclude)\QlikViewData\SourceDocuments\01_Extraction\Data_MSP_Direct';&#13;&#10;let vSourceFilePathCDRA = '$(vInclude)\QlikViewData\SourceDocuments\01_Extraction\Data';&#13;&#10;</Data><NamedCell
+    <Cell ss:Index="11" ss:StyleID="s70"><Data ss:Type="String">let vLoadStartTime = Now(1);&#13;&#10;let vLoadMinDate = floor(AddMonths(YearStart(today()), -3));&#13;&#10;let vLoadMaxDate = floor(AddMonths(MonthStart(AddMonths(Now(1), +120)), -1));&#13;&#10;let vSourceFilePath = '$(vInclude)\QlikViewData\SourceDocuments\01_Extraction\Data_MSP_Direct';&#13;&#10;let vSourceFilePathCDRA = '$(vInclude)\QlikViewData\SourceDocuments\01_Extraction\Data';&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:Index="15" ss:StyleID="s16"><Data ss:Type="String">[$(vSourceFilePathCDRA)\V_RPT_REGN_HYP_DRILL_DOWN_PROD.qvd](qvd);&#13;&#10;[$(vSourceFilePathCDRA)\V_SP_CDRA_STUDY_PARTICIPATION.qvd]&#13;&#10;[$(vSourceFilePathCDRA)\V_SP_CDRA_COUNTRIES.qvd]&#13;&#10;[$(vSourceFilePathCDRA)\V_SP_CDRA_COUNTRIES.qvd]&#13;&#10;[$(vSourceFilePathCDRA)\V_RPT_PO_DETAILS_PROD.qvd]&#13;&#10;[$(vSourceFilePathCDRA)\V_RPT_REGN_HYP_DRILL_DOWN_PROD.qvd](qvd);&#13;&#10;[$(vSourceFilePathCDRA)\V_RPT_IVRS_NEW.qvd]&#13;&#10;[$(vSourceFilePathCDRA)\V_SP_CDRA_STUDY_PARTICIPATION.qvd]&#13;&#10;[$(vSourceFilePathCDRA)\V_RPT_CRO_PLAN.qvd]&#13;&#10;[$(vSourceFilePathCDRA)\V_RPT_HYP_BLUE_SHEET.qvd]&#13;&#10;[$(vSourceFilePathCDRA)\V_RPT_HYP_EXPENSES.qvd]&#13;&#10;[$(vSourceFilePathCDRA)\V_RPT_HYP_FTE_NEW.qvd]&#13;&#10;[$(vSourceFilePathCDRA)\V_RPT_HYP_FTE_COST.qvd]&#13;&#10;[$(vSourceFilePathCDRA)\V_RPT_OTL_DETAILS.qvd]&#13;&#10;FROM [$(vSourceFilePath)\MSP_EpmProject_UserView.qvd] (qvd);&#13;&#10;FROM [$(vSourceFilePath)\MSP_PROJECTS.qvd] (qvd);&#13;&#10;[$(vSourceFilePath)\MSP_EpmEnterpriseProjectType.qvd]&#13;&#10;FROM [$(vSourceFilePath)\MSP_EpmTask_UserView.qvd] (qvd)&#13;&#10;FROM [$(vSourceFilePath)\MSP_TASKS.qvd] (qvd);&#13;&#10;[$(vSourceFilePath)\MSP_EpmResource_UserView.qvd]&#13;&#10;[$(vSourceFilePath)\MSP_RESOURCES.qvd]&#13;&#10;[$(vSourceFilePath)\MSPLT_CostCenter_UserView.qvd]&#13;&#10;[$(vSourceFilePath)\MSP_EpmAssignment_UserView.qvd]&#13;&#10;FROM [$(vSourceFilePath)\PCD_TaskUpdates.qvd] (qvd);&#13;&#10;FROM [$(vSourceFilePath)\MSP_Links.qvd] (qvd)&#13;&#10;FROM [$(vSourceFilePath)\MSP_Links.qvd] (qvd)&#13;&#10;FROM [$(vSourceFilePath)\MSP_EpmTask_UserView.qvd] (qvd)&#13;&#10;FROM [$(vSourceFilePath)\MSP_TASKS.qvd] (qvd);&#13;&#10;FROM [$(vSourceFilePath)\MSP_EpmTask_UserView.qvd] (qvd)&#13;&#10;FROM [$(vSourceFilePath)\MSP_TASKS.qvd] (qvd);&#13;&#10;FROM [$(vSourceFilePath)\MSP_EpmResourceByDay_UserView.qvd](qvd)&#13;&#10;FROM [$(vSourceFilePath)\MSP_EpmResourceByDay_UserView.qvd](qvd)&#13;&#10;//FROM [$(vSourceFilePath)\MSP_EpmResourceByDay_UserView.qvd](qvd)&#13;&#10;FROM [$(vSourceFilePath)\MSP_EpmAssignmentByDay_UserView.qvd] (qvd)&#13;&#10;FROM [$(vSourceFilePath)\MSP_EpmAssignmentByDay_UserView.qvd] (qvd)&#13;&#10;//FROM [$(vSourceFilePath)\MSP_EpmAssignmentByDay_UserView.qvd] (qvd)&#13;&#10;FROM [$(vSourceFilePath)\MSP_EpmResourceByDay_UserView.qvd](qvd)&#13;&#10;FROM [$(vSourceFilePath)\MSP_EpmAssignmentByDay_UserView.qvd] (qvd)&#13;&#10;[$(vSourceFilePath)\MSP_EpmWorkflowPhase.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\MSP_EpmWorkflowStatusInformation.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\MSP_EpmWorkflowStage.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\MSPCFPRJ_Assays_Planned_AssociationView.qvd]&#13;&#10;[$(vSourceFilePath)\MSPLT_Assays_Planned_LT_UserView.qvd]&#13;&#10;[$(vSourceFilePath)\MSPCFPRJ_Drug_Candidate_Program_AssociationView.qvd]&#13;&#10;[$(vSourceFilePath)\MSPLT_Drug_Candidate_Program_UserView.qvd]&#13;&#10;[$(vSourceFilePath)\MSPCFPRJ_Drug_Development_Project_AssociationView.qvd]&#13;&#10;[$(vSourceFilePath)\MSPLT_Drug_Development_Project_UserView.qvd]&#13;&#10;[$(vSourceFilePath)\MSPCFPRJ_Regions_AssociationView.qvd]&#13;&#10;[$(vSourceFilePath)\MSPLT_Region_MultiSelect_LT_UserView.qvd]&#13;&#10;FROM [$(vSourceFilePath)\MSPCFTASK_Report_Assignment_AssociationView.qvd] (qvd)&#13;&#10;FROM [$(vSourceFilePath)\MSPLT_Report_Assignment_UserView.qvd] (qvd)&#13;&#10;FROM [$(vSourceFilePath)\MSPLT_Report_Tag_Root_LT_UserView.qvd] (qvd)&#13;&#10;[$(vSourceFilePath)\TASK_NOTES.qvd]&#13;&#10;FROM [$(vSourceFilePath)\MSP_EpmTask_UserView.qvd] (qvd)&#13;&#10;FROM [$(vSourceFilePath)\PCD_StatusUpdates.qvd] (qvd)&#13;&#10;FROM [$(vSourceFilePath)\PCD_StatusUpdates_FullHistory.qvd] (qvd)&#13;&#10;</Data><NamedCell
+    <Cell ss:Index="15" ss:StyleID="s70"><Data ss:Type="String">[$(vSourceFilePathCDRA)\V_RPT_REGN_HYP_DRILL_DOWN_PROD.qvd](qvd);&#13;&#10;[$(vSourceFilePathCDRA)\V_SP_CDRA_STUDY_PARTICIPATION.qvd]&#13;&#10;[$(vSourceFilePathCDRA)\V_SP_CDRA_COUNTRIES.qvd]&#13;&#10;[$(vSourceFilePathCDRA)\V_SP_CDRA_COUNTRIES.qvd]&#13;&#10;[$(vSourceFilePathCDRA)\V_RPT_PO_DETAILS_PROD.qvd]&#13;&#10;[$(vSourceFilePathCDRA)\V_RPT_REGN_HYP_DRILL_DOWN_PROD.qvd](qvd);&#13;&#10;[$(vSourceFilePathCDRA)\V_RPT_IVRS_NEW.qvd]&#13;&#10;[$(vSourceFilePathCDRA)\V_SP_CDRA_STUDY_PARTICIPATION.qvd]&#13;&#10;[$(vSourceFilePathCDRA)\V_RPT_CRO_PLAN.qvd]&#13;&#10;[$(vSourceFilePathCDRA)\V_RPT_HYP_BLUE_SHEET.qvd]&#13;&#10;[$(vSourceFilePathCDRA)\V_RPT_HYP_EXPENSES.qvd]&#13;&#10;[$(vSourceFilePathCDRA)\V_RPT_HYP_FTE_NEW.qvd]&#13;&#10;[$(vSourceFilePathCDRA)\V_RPT_HYP_FTE_COST.qvd]&#13;&#10;[$(vSourceFilePathCDRA)\V_RPT_OTL_DETAILS.qvd]&#13;&#10;FROM [$(vSourceFilePath)\MSP_EpmProject_UserView.qvd] (qvd);&#13;&#10;FROM [$(vSourceFilePath)\MSP_PROJECTS.qvd] (qvd);&#13;&#10;[$(vSourceFilePath)\MSP_EpmEnterpriseProjectType.qvd]&#13;&#10;FROM [$(vSourceFilePath)\MSP_EpmTask_UserView.qvd] (qvd)&#13;&#10;FROM [$(vSourceFilePath)\MSP_TASKS.qvd] (qvd);&#13;&#10;[$(vSourceFilePath)\MSP_EpmResource_UserView.qvd]&#13;&#10;[$(vSourceFilePath)\MSP_RESOURCES.qvd]&#13;&#10;[$(vSourceFilePath)\MSPLT_CostCenter_UserView.qvd]&#13;&#10;[$(vSourceFilePath)\MSP_EpmAssignment_UserView.qvd]&#13;&#10;FROM [$(vSourceFilePath)\PCD_TaskUpdates.qvd] (qvd);&#13;&#10;FROM [$(vSourceFilePath)\MSP_Links.qvd] (qvd)&#13;&#10;FROM [$(vSourceFilePath)\MSP_Links.qvd] (qvd)&#13;&#10;FROM [$(vSourceFilePath)\MSP_EpmTask_UserView.qvd] (qvd)&#13;&#10;FROM [$(vSourceFilePath)\MSP_TASKS.qvd] (qvd);&#13;&#10;FROM [$(vSourceFilePath)\MSP_EpmTask_UserView.qvd] (qvd)&#13;&#10;FROM [$(vSourceFilePath)\MSP_TASKS.qvd] (qvd);&#13;&#10;FROM [$(vSourceFilePath)\MSP_EpmResourceByDay_UserView.qvd](qvd)&#13;&#10;FROM [$(vSourceFilePath)\MSP_EpmResourceByDay_UserView.qvd](qvd)&#13;&#10;//FROM [$(vSourceFilePath)\MSP_EpmResourceByDay_UserView.qvd](qvd)&#13;&#10;FROM [$(vSourceFilePath)\MSP_EpmAssignmentByDay_UserView.qvd] (qvd)&#13;&#10;FROM [$(vSourceFilePath)\MSP_EpmAssignmentByDay_UserView.qvd] (qvd)&#13;&#10;//FROM [$(vSourceFilePath)\MSP_EpmAssignmentByDay_UserView.qvd] (qvd)&#13;&#10;FROM [$(vSourceFilePath)\MSP_EpmResourceByDay_UserView.qvd](qvd)&#13;&#10;FROM [$(vSourceFilePath)\MSP_EpmAssignmentByDay_UserView.qvd] (qvd)&#13;&#10;[$(vSourceFilePath)\MSP_EpmWorkflowPhase.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\MSP_EpmWorkflowStatusInformation.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\MSP_EpmWorkflowStage.qvd](qvd);&#13;&#10;[$(vSourceFilePath)\MSPCFPRJ_Assays_Planned_AssociationView.qvd]&#13;&#10;[$(vSourceFilePath)\MSPLT_Assays_Planned_LT_UserView.qvd]&#13;&#10;[$(vSourceFilePath)\MSPCFPRJ_Drug_Candidate_Program_AssociationView.qvd]&#13;&#10;[$(vSourceFilePath)\MSPLT_Drug_Candidate_Program_UserView.qvd]&#13;&#10;[$(vSourceFilePath)\MSPCFPRJ_Drug_Development_Project_AssociationView.qvd]&#13;&#10;[$(vSourceFilePath)\MSPLT_Drug_Development_Project_UserView.qvd]&#13;&#10;[$(vSourceFilePath)\MSPCFPRJ_Regions_AssociationView.qvd]&#13;&#10;[$(vSourceFilePath)\MSPLT_Region_MultiSelect_LT_UserView.qvd]&#13;&#10;FROM [$(vSourceFilePath)\MSPCFTASK_Report_Assignment_AssociationView.qvd] (qvd)&#13;&#10;FROM [$(vSourceFilePath)\MSPLT_Report_Assignment_UserView.qvd] (qvd)&#13;&#10;FROM [$(vSourceFilePath)\MSPLT_Report_Tag_Root_LT_UserView.qvd] (qvd)&#13;&#10;[$(vSourceFilePath)\TASK_NOTES.qvd]&#13;&#10;FROM [$(vSourceFilePath)\MSP_EpmTask_UserView.qvd] (qvd)&#13;&#10;FROM [$(vSourceFilePath)\PCD_StatusUpdates.qvd] (qvd)&#13;&#10;FROM [$(vSourceFilePath)\PCD_StatusUpdates_FullHistory.qvd] (qvd)&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:Index="17" ss:StyleID="s16"><Data ss:Type="String">[$(vSourceFilePath)\Manufacturing Product to Target.xlsx](ooxml, embedded labels, table is Sheet1);&#13;&#10;</Data><NamedCell
+    <Cell ss:Index="17" ss:StyleID="s70"><Data ss:Type="String">[$(vSourceFilePath)\Manufacturing Product to Target.xlsx](ooxml, embedded labels, table is Sheet1);&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
-   <Row ss:Height="30" ss:Hidden="1">
+   <Row ss:AutoFitHeight="0" ss:Height="30" ss:Hidden="1" ss:StyleID="Default">
     <Cell><Data ss:Type="Number">31</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">02_Data Model</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">SHARP_Comm_Data Model</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:Index="11" ss:StyleID="s16"><Data ss:Type="String">let vSourceFilePath = '$(vInclude)\qlikviewdata\SourceDocuments\01_Extraction\Data_Financials_PM';&#13;&#10;</Data><NamedCell
+    <Cell ss:Index="11" ss:StyleID="s70"><Data ss:Type="String">let vSourceFilePath = '$(vInclude)\qlikviewdata\SourceDocuments\01_Extraction\Data_Financials_PM';&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
-   <Row ss:Height="30" ss:Hidden="1">
+   <Row ss:AutoFitHeight="0" ss:Height="30" ss:Hidden="1" ss:StyleID="Default">
     <Cell><Data ss:Type="Number">32</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">02_Data Model</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">SHARP_Data Model_PROD_PM</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:Index="11" ss:StyleID="s16"><Data ss:Type="String">let vSourceFilePath = '$(vInclude)\qlikviewdata\SourceDocuments\01_Extraction\Data_Financials_PM';&#13;&#10;</Data><NamedCell
+    <Cell ss:Index="11" ss:StyleID="s70"><Data ss:Type="String">let vSourceFilePath = '$(vInclude)\qlikviewdata\SourceDocuments\01_Extraction\Data_Financials_PM';&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
-   <Row ss:Height="60" ss:Hidden="1">
+   <Row ss:AutoFitHeight="0" ss:Height="60" ss:Hidden="1" ss:StyleID="Default">
     <Cell><Data ss:Type="Number">33</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">02_Data Model</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">Target_Database Data Model</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:Index="11" ss:StyleID="s16"><Data ss:Type="String">let vLoadStartTime = Now(1);&#13;&#10;let vSourceFilePath = '$(vInclude)\QlikViewData\SourceDocuments\01_Extraction\Data_TargetsDB';&#13;&#10;let vSourceFilePathImages = '$(vInclude)\QlikViewData\SourceDocuments\00_Public_Images\TargetDB_Images';&#13;&#10;</Data><NamedCell
+    <Cell ss:Index="11" ss:StyleID="s70"><Data ss:Type="String">let vLoadStartTime = Now(1);&#13;&#10;let vSourceFilePath = '$(vInclude)\QlikViewData\SourceDocuments\01_Extraction\Data_TargetsDB';&#13;&#10;let vSourceFilePathImages = '$(vInclude)\QlikViewData\SourceDocuments\00_Public_Images\TargetDB_Images';&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:Index="15" ss:StyleID="s16"><Data ss:Type="String">[$(vSourceFilePath)\AssociatedTFAs.qvd]&#13;&#10;</Data><NamedCell
+    <Cell ss:Index="15" ss:StyleID="s70"><Data ss:Type="String">[$(vSourceFilePath)\AssociatedTFAs.qvd]&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
-   <Row ss:Height="30" ss:Hidden="1">
+   <Row ss:AutoFitHeight="0" ss:Height="30" ss:Hidden="1" ss:StyleID="Default">
     <Cell><Data ss:Type="Number">34</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">02_Data Model</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">Target_Nomination_Data_Model</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:Index="15" ss:StyleID="s16"><Data ss:Type="String">\\TARQLKFS01P\QlikViewData\SourceDocuments\01_Extraction\Data_TargetNom\TargetNom.qvd&#13;&#10;</Data><NamedCell
+    <Cell ss:Index="15" ss:StyleID="s70"><Data ss:Type="String">\\TARQLKFS01P\QlikViewData\SourceDocuments\01_Extraction\Data_TargetNom\TargetNom.qvd&#13;&#10;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
-   <Row ss:Hidden="1">
+   <Row ss:AutoFitHeight="0" ss:Hidden="1" ss:StyleID="Default">
     <Cell><Data ss:Type="Number">35</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">02_Data Model</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s17"><Data ss:Type="String">CONCUR_Data_Model</Data><NamedCell
+    <Cell ss:StyleID="s71"><Data ss:Type="String">CONCUR_Data_Model</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
-   <Row ss:Hidden="1">
+   <Row ss:AutoFitHeight="0" ss:Hidden="1" ss:StyleID="Default">
     <Cell><Data ss:Type="Number">36</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">02_Data Model</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s17"><Data ss:Type="String">MSP_COMPASS_and_SHARP_Financial_Data_Model</Data><NamedCell
+    <Cell ss:StyleID="s71"><Data ss:Type="String">MSP_COMPASS_and_SHARP_Financial_Data_Model</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
-   <Row ss:Hidden="1">
+   <Row ss:AutoFitHeight="0" ss:Hidden="1" ss:StyleID="Default">
     <Cell><Data ss:Type="Number">37</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">02_Data Model</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s17"><Data ss:Type="String">Planview_Data_Model</Data><NamedCell
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Planview_Data_Model</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
-   <Row ss:Hidden="1">
+   <Row ss:AutoFitHeight="0" ss:Hidden="1" ss:StyleID="Default">
     <Cell><Data ss:Type="Number">38</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">02_Data Model</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s17"><Data ss:Type="String">SHARP_Financial_Data_Model</Data><NamedCell
+    <Cell ss:StyleID="s71"><Data ss:Type="String">SHARP_Financial_Data_Model</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
   </Table>
@@ -821,13 +816,14 @@
     <Footer x:Margin="0.3"/>
     <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
    </PageSetup>
+   <Unsynced/>
+   <Zoom>70</Zoom>
    <Selected/>
-   <LeftColumnVisible>9</LeftColumnVisible>
    <FreezePanes/>
    <FrozenNoSplit/>
    <FilterOn/>
    <SplitHorizontal>1</SplitHorizontal>
-   <TopRowBottomPane>13</TopRowBottomPane>
+   <TopRowBottomPane>1</TopRowBottomPane>
    <ActivePane>2</ActivePane>
    <Panes>
     <Pane>
@@ -835,9 +831,7 @@
     </Pane>
     <Pane>
      <Number>2</Number>
-     <ActiveRow>49</ActiveRow>
-     <ActiveCol>9</ActiveCol>
-     <RangeSelection>R50</RangeSelection>
+     <ActiveRow>2</ActiveRow>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
@@ -845,10 +839,7 @@
   </WorksheetOptions>
   <AutoFilter x:Range="R1C1:R39C17"
    xmlns="urn:schemas-microsoft-com:office:excel">
-   <AutoFilterColumn x:Type="Custom">
-    <AutoFilterCondition x:Operator="Equals" x:Value="13"/>
-   </AutoFilterColumn>
-   <AutoFilterColumn x:Type="Custom">
+   <AutoFilterColumn x:Index="2" x:Type="Custom">
     <AutoFilterCondition x:Operator="Equals" x:Value="01_Extraction"/>
    </AutoFilterColumn>
   </AutoFilter>
@@ -856,6 +847,7 @@
  <Worksheet ss:Name="Sheet1">
   <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
    x:FullRows="1" ss:DefaultRowHeight="15">
+   <Row ss:AutoFitHeight="0"/>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
    <PageSetup>
@@ -863,6 +855,7 @@
     <Footer x:Margin="0.3"/>
     <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
    </PageSetup>
+   <Unsynced/>
    <ProtectObjects>False</ProtectObjects>
    <ProtectScenarios>False</ProtectScenarios>
   </WorksheetOptions>
